@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Opinions of several learned antiquaries touching the antiquity, power, order, state, persons, manner, and proceedings of the high court of Parliament in England viz. Dodridge, Agar, Tate, Camden, Holland, Cotton, Selden.</title>
+         </titleStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 46 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36232</idno><idno type="EEBO-CITATION">8713155</idno>
+  <idno type="VID">41640</idno>
+  <idno type="EEBO-PROQUEST">2264208172</idno>
+  
+            <idno type="STC">Wing D1797</idno>
+            <idno type="STC">ESTC R25001</idno>
+            <idno type="OCLC">08713155</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A36232)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41640)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1256:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Opinions of several learned antiquaries touching the antiquity, power, order, state, persons, manner, and proceedings of the high court of Parliament in England viz. Dodridge, Agar, Tate, Camden, Holland, Cotton, Selden.</title>
+                  <author>Elsynge, Henry, 1598-1654. Method of passing bills in Parliament.</author>
+               </titleStmt>
+               <extent>58, 33, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F.L. for Matt. Gilliflower,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The method of passing bills in Parliament, written by Henry Elsinge": p. 1-33 (2nd grouping).</note>
+                  <note>"The method of passing bills in Parliament" has special t.p.</note>
+                  <note>Errata: p. [34] (2nd grouping).</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Rules and practice.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:41640:1"/>
+                  <pb facs="tcp:41640:1"/>
+                  <pb facs="tcp:41640:2"/>
+                  <p>THE OPINIONS Of several Learned Antiquaries, <hi>VIZ.</hi>
+                     <list>
+                        <item>
+                           <hi>Dodridge,</hi>
+                        </item>
+                        <item>
+                           <hi>Agar,</hi>
+                        </item>
+                        <item>
+                           <hi>Tate,</hi>
+                        </item>
+                        <item>
+                           <hi>Camden,</hi>
+                        </item>
+                        <item>
+                           <hi>Holland,</hi>
+                        </item>
+                        <item>
+                           <hi>Cotton,</hi>
+                        </item>
+                        <item>
+                           <hi>Selden.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>TOUCHING The Antiquity, Power, Order, State, Persons, Manner, and Pro<g ref="char:EOLhyphen"/>ceedings of the High Court of PARLIAMENT IN ENGLAND.</p>
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>F. L.</hi> for <hi>Matt. Gilliflower,</hi> at the <hi>Spread Eagle and Crown</hi> in <hi>Westminster-Hall.</hi> 1685.</p>
+               </div>
+            </front>
+            <body>
+               <div type="collection_of_opinions">
+                  <pb facs="tcp:41640:3"/>
+                  <pb n="1" facs="tcp:41640:3"/>
+                  <head>The Opinions of several Learned Antiquaries, touch<g ref="char:EOLhyphen"/>ing the Antiquity, Power, Order, State, Persons, Man<g ref="char:EOLhyphen"/>ner and Proceedings of the High Court of Parliament in <hi>England.</hi>
+                  </head>
+                  <div type="part">
+                     <byline>Dodridge.</byline>
+                     <p>THere is no King in the World, nor Subjects of any King, that have a greater, and more binding, and yet a freer Council, than this our Parliament in <hi>England,</hi> whose general Acts, since all men must take notice of, it may profit any man to understand the Dignity, Order, and Antiquity thereof. Soveraignty, the highest degree of Ho<g ref="char:EOLhyphen"/>nour, is imported in the very Summons: For the King alone (<hi>
+                           <gap reason="illegible: blotted" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Regio</hi>) as a
+<pb n="2" facs="tcp:41640:4"/>Flower of the Crown, hath the absolute power of calling and dissolving it. Order it self stands represented; when the Court is sitting, such is the Majesty of the Pre<g ref="char:EOLhyphen"/>sence, the gravity of the persons, and their state in proceeding: but this being often seen, and so best known, and the other unknown to many that sit, and often see the order of this Court.</p>
+                     <p>Therefore we will treat principally of the Antiquity of this high Court of Parlia<g ref="char:EOLhyphen"/>ment. And first of the Appellation: The Word <hi>Parliament,</hi> some derive it from Peers, <hi>quasi parium Conventus;</hi> or as o<g ref="char:EOLhyphen"/>thers say Parliament, <hi>Quasi parium la<g ref="char:EOLhyphen"/>mentum.</hi>
+                     </p>
+                     <p>Others more probably from the <hi>French</hi> word <hi>Parler,</hi> or that of the <hi>Greek</hi>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, to treat and confer freely. The <hi>French</hi> Histories say, that this name in this sense, began at the Assemblies of the Peers of <hi>France, Anno Domini</hi> 1200.</p>
+                     <p>But it appeareth to be more Ancient with us than of that time: For <hi>Ingulphus</hi> who died <hi>Anno</hi> 1009. saith <hi>in Publico nostro Parliamento, &amp;c.</hi> taking it there for a meeting, or Chapter of the Abbots.</p>
+                     <p>
+                        <hi>Angelo</hi> King of <hi>Polonia,</hi> in <hi>Polish</hi> States calleth the Assembly <hi>Generale Parliamen<g ref="char:EOLhyphen"/>tum.</hi>
+                        <pb n="3" facs="tcp:41640:4"/>This may raise a doubt of the for<g ref="char:EOLhyphen"/>mer Etymology of it, from the <hi>French</hi> word <hi>Parler.</hi> But, no doubt, the word was brought into the Statists in the time of <hi>Henry</hi> the First, to the general Council of the Kingdom.</p>
+                     <p>But the like Assemblies as Parliaments being much more ancient than the Parlia<g ref="char:EOLhyphen"/>ment, underwent these names of old times. The <hi>Britains</hi> called them <hi>Keyfrithen,</hi> be<g ref="char:EOLhyphen"/>cause Laws were therein made by the English <hi>Saxons</hi> in their <hi>English Graduises,</hi> a Council; sometimes <hi>Wittenu motu,</hi> a meet<g ref="char:EOLhyphen"/>ing of Wise men: sometimes by the <hi>Greek</hi> word, <hi>Synodus.</hi> The <hi>Latin</hi> Authors of that age called it <hi>Concilium magnatum con<g ref="char:EOLhyphen"/>ventus Curiae altissima presentia Regis Praela<g ref="char:EOLhyphen"/>torum, Procerumque collectorum;</hi> as appear<g ref="char:EOLhyphen"/>eth by the Charter of <hi>Withlassias, Anno</hi> 833. and of King <hi>Edgar, Anno</hi> 966.</p>
+                     <p>And now to step <hi>a nomine ad Rem,</hi> be<g ref="char:EOLhyphen"/>fore the time of Soveraignty, Natures Law directed men to the love of Society, and care to preserve it, gained free con<g ref="char:EOLhyphen"/>sent even of lawless men to admit of cer<g ref="char:EOLhyphen"/>tain Customes as Laws, herehence fra<g ref="char:EOLhyphen"/>ming matter of form for a Common<g ref="char:EOLhyphen"/>wealth.</p>
+                     <pb n="4" facs="tcp:41640:5"/>
+                     <p> But new springing mischiefs, remedi<g ref="char:EOLhyphen"/>less by the elder Customes, causeth, for remedy thereof, the calling of yearly Councils, the Original, no doubt, of our after Parliaments; and it shall appear that our Kingdom from as grounded autho<g ref="char:EOLhyphen"/>rity as any other Nation, can prove of old the practice of those great Assemblies, then called Councils, now Parliaments. Those Sages, the <hi>Druides,</hi> most proper to this Isle, had yearly Conventions of their noblest and best people, in a middle con<g ref="char:EOLhyphen"/>secrated plott of this Kingdom, punishing with proscription from their Sacrifices, whoso obeyed not those general designs.</p>
+                     <p>Before the <hi>Romans</hi> arrived in this King<g ref="char:EOLhyphen"/>dome, <hi>Cassibulan</hi> was before <hi>Communi Con<g ref="char:EOLhyphen"/>cilio,</hi> Chieftain of the <hi>Britains</hi> Forces; <hi>Summa enim Imperii Bellique administrandi communi Concilio permissa est Cassibulano.</hi> The Ancient Laws of the <hi>Britains</hi> (which to the honour of our Common Laws have to their use to this day) were composed in their Common Councils; the multitude at that time, as possessed of nothing, had neither voice nor place; Usury, Tribute, and Greatness, having made them servile to their betters.</p>
+                     <pb n="5" facs="tcp:41640:5"/>
+                     <p> And thus stood the State until by Con<g ref="char:EOLhyphen"/>quest it was made a Province. So before our <hi>Britains</hi> learned the Laws of their Vi<g ref="char:EOLhyphen"/>ctors, they held their Common Councils.</p>
+                     <p>
+                        <hi>Tacitus</hi> seemeth to ascribe much to the prosperous proceedings of the <hi>Romans</hi> against the <hi>Britains, quod non in communi consuluerunt.</hi>
+                     </p>
+                     <p>After the entry of the <hi>Romans,</hi> who with their People brought their Laws, their Councils were <hi>Comitia,</hi> as Parlia<g ref="char:EOLhyphen"/>ments compounded of the three degrees, <hi>(Senatores, Equestres, Plaebi)</hi> and termed <hi>Curiata, Centuriata,</hi> or <hi>Tributa,</hi> so called for that the people were divided <hi>Per curi<g ref="char:EOLhyphen"/>as;</hi> in which Assembly, <hi>Populus Suffragia tenebat;</hi> distinguished by Seath summoned by the Lictor, held in the City had power to consult of Peace and War, and to dis<g ref="char:EOLhyphen"/>pose of the lesser publick Offices.</p>
+                     <p>
+                        <hi>Romulus</hi> was founder thereof, and no<g ref="char:EOLhyphen"/>bler people were divided <hi>per Centurias;</hi> for this the Council fore-sent by Edict, <hi>quis dies comitiis, centurialis futurus est,</hi> sum<g ref="char:EOLhyphen"/>moned <hi>per Corni nicem,</hi> assembled in <hi>Campo martio,</hi> because all in Arms.</p>
+                     <p>In this year were disposed the greater Magistracies, and affairs of that. <hi>Hostilius</hi> was the Institutor, <hi>Tullie</hi> gloried in that
+<pb n="6" facs="tcp:41640:6"/>he was recalled from <hi>Eailege Centuriata Tributa;</hi> For in this be people assembled by their Tribunes: Much agreeing with that of <hi>Curiata:</hi> And the <hi>Leges pe<g ref="char:EOLhyphen"/>culiares</hi> were general <hi>Jussu populi, Regnante Magistrati,</hi> but not in force, as Laws, un<g ref="char:EOLhyphen"/>til their promulgation, for which cause the Country Tribunes repaired to certain Fairs, where Proclamation was made of their new Laws, and holding it <hi>aequum ut quisquam obligeretur quod sine culpa sua igno<g ref="char:EOLhyphen"/>rat;</hi> but these Freedoms of the people maimed as the Empire grew absolute.</p>
+                     <p>And when that State declined, we (as other infranchized Countries) began to give Laws to our selves. Therefore the <hi>Britains</hi> told <hi>Augustine, Se non posse absque suorum concensu, &amp; licentia, priscis abdicare mo<g ref="char:EOLhyphen"/>ribus.</hi> And thus it stood in <hi>Britain</hi> until the coming of the <hi>Saxons.</hi> Now that sub<g ref="char:EOLhyphen"/>stance and form of Parliamentary Assem<g ref="char:EOLhyphen"/>blies, went all along the <hi>Saxon</hi> age, held during the incursion of the <hi>Danes,</hi> and was continued by the Conqueror in part. And when the assembly of the three Estates formed the Parliament (as now we keep it) it shall by clear proofs and presidents appear. The Story of the <hi>Saxons</hi> and their Laws do shew that they were of the same
+<pb n="7" facs="tcp:41640:6"/>mind, translated hither, as <hi>Tacitus</hi> saith the <hi>Germans</hi> were, <hi>Nec legibus infinita Po<g ref="char:EOLhyphen"/>testas de minoribus Rebus Principes consultant de majoribus omnes Rex Edwinus</hi> (saith <hi>Beda, lib.</hi> 2. <hi>cap.</hi> 13.) <hi>Quod antiquam fidem susci<g ref="char:EOLhyphen"/>peret dixit se cum amicis Principibus &amp; censi<g ref="char:EOLhyphen"/>liariis suis collaturum.</hi>
+                     </p>
+                     <p>In a Charter of King <hi>Ethereld,</hi> it appear<g ref="char:EOLhyphen"/>eth <hi>quod ad Sinodale concilium apud Ciren<g ref="char:EOLhyphen"/>chester iniversi optimates simul convenerunt, &amp; Astricum majestratis reum de hac patria pro<g ref="char:EOLhyphen"/>fugum expulerunt. Bertholphus</hi> held a Coun<g ref="char:EOLhyphen"/>cil at <hi>Kingburn (Pro Regni negotiis congrega<g ref="char:EOLhyphen"/>tum)</hi> to the which the west <hi>Saxon</hi> King, and people sent thither their Legate. <hi>Ingul<g ref="char:EOLhyphen"/>phus</hi> hath many places of clear proof, but I will move but one: <hi>In festo Nativitatis Beatae Mariae, cum universi magnatis Regni per Regium Edictum, Sommoniti tam Archi<g ref="char:EOLhyphen"/>episcopi, Episcopi Abbates &amp; cleri, quam totius Regni Proceres, &amp; optimates London convene<g ref="char:EOLhyphen"/>runt ad tractandum de Negotiis publicis totius Regni consumatis omnibus Rex Eldredus coram universis Domino Turketillo Abbati monachis<g ref="char:EOLhyphen"/>que suis accercitis dedit Monasterium de Crow<g ref="char:EOLhyphen"/>land, &amp;c.</hi>
+                     </p>
+                     <p>Here you may see the sampler of our Parliament; but to come nearer, when King <hi>Ina</hi> established his Laws he saith, I <hi>Ina</hi> King of the West <hi>Saxons,</hi> have called
+<pb n="8" facs="tcp:41640:7"/>all my Fatherhood, Aldermen, and my wisest Commons, with the Godly men of my Kingdom to consult of great and weighty matters.</p>
+                     <p>Here is presented in King <hi>Ina,</hi> the Kings Royal person, the Fatherhood in those An<g ref="char:EOLhyphen"/>cient times were those whom we call Bi<g ref="char:EOLhyphen"/>shops, and therefore we should term Re<g ref="char:EOLhyphen"/>verend Fathers.</p>
+                     <p>By Aldermen the Nobility is meant. So honourable was the word Alderman in those times, that only Noblemen were called Aldermen; by the wisest Com<g ref="char:EOLhyphen"/>mons is signified the Knights and Bur<g ref="char:EOLhyphen"/>gesses; And so is the Kings Writ at this day: <hi>De discieoribus &amp; magis sufficientibus.</hi> By Godly men is meant the Convocation-house, for that it consisted only of Religi<g ref="char:EOLhyphen"/>ous men; to consult of great and weigh<g ref="char:EOLhyphen"/>ty matters. So is the Kings writ, <hi>pro quibus dam Ardius &amp; urgentibus negotiis, nos statum, &amp; defensionem Regni nostri Angliae, &amp; Ecclesiae Anglicana concernentibus.</hi>
+                     </p>
+                     <p>The like was in King <hi>Alfreds</hi> days, where the King, <hi>Sancti Episcopi, &amp; Sapi<g ref="char:EOLhyphen"/>entes laici Statuerunt leges,</hi> calling the Sta<g ref="char:EOLhyphen"/>tute Books <hi>Libri Sinodales,</hi> all their Laws going by way of suffrage general, accor<g ref="char:EOLhyphen"/>ding to the writ of our Parliament, Where<g ref="char:EOLhyphen"/>fore King <hi>Offa</hi> having gathered, <hi>Concilia
+<pb n="9" facs="tcp:41640:7"/>apientum,</hi> the best Laws of <hi>Ina</hi> allured, and <hi>Etheldred</hi> would not publish them until such time, (as the text saith) <hi>ostendenda hac omnibus sapientibus nominis &amp; dixerunt omnes placet custodire ea.</hi> But howsoever the Government was by sundry Kings, and con<g ref="char:EOLhyphen"/>tinually at interwar, the <hi>Saxon</hi> time held hardly one form of this their great Assem<g ref="char:EOLhyphen"/>bly or Council, yet in <hi>Canutus</hi> days, he ha<g ref="char:EOLhyphen"/>ving Conquered all, and reduced that Heptarchy into a Monarchy.</p>
+                     <p>So that he could say, <hi>Sicut in una lege universum Angtiae Regnum Regeretur.</hi> It is plain that he held a Parliament, though not then so stiled, yet truly so to be accounted, and since it hath all parts of our Parliament, we might rightly call it so. In the preamble to his Laws thus he saith, <hi>Convocato itaque Com<g ref="char:EOLhyphen"/>muni Procerum comitatu &amp; Episcoporum ab<g ref="char:EOLhyphen"/>batum &amp; Caetiorum Nobilium. Nec non &amp; cae<g ref="char:EOLhyphen"/>terae nobilitatis sapientaque totius Angliae consi<g ref="char:EOLhyphen"/>lio Satagebat cora decreta &amp; in quanta humana ratio voluit &amp; Stabiliret.</hi>
+                     </p>
+                     <p>After this pious King <hi>Edward</hi> the Con<g ref="char:EOLhyphen"/>fessor, in a Charter made to <hi>Westminster,</hi> for thus he saith; <hi>hane igitur Chartum Donati<g ref="char:EOLhyphen"/>onis &amp; libertatis in dedicatione predict Ecclesiae recitari nisi coram Episcopis Abbatis, comitibus &amp; optimatibus Angliae omnique populo audiente.</hi>
+                     </p>
+                     <pb n="10" facs="tcp:41640:8"/>
+                     <p> But now to come to the <hi>Normans</hi> time after the Conquest, the two first Kings, the Conqueror and his Son <hi>William Rufus,</hi> Reigned with their Swords in their hands absolutely of themselves, not admitting the former general assemblies of the States. But permitting only Provincial Synods the Clergy for compounding of the Eccle<g ref="char:EOLhyphen"/>siastical causes; where nevertheless they sit as presidents. And the Conqueror him<g ref="char:EOLhyphen"/>self did not challenge to himself, so abso<g ref="char:EOLhyphen"/>lute a conquest; but the Laws that he made have this Title; <hi>Hic intimatur quod Gulielmus Rex cum principibus suis consti<g ref="char:EOLhyphen"/>tutus.</hi> And in giving Laws to this Na<g ref="char:EOLhyphen"/>tion: <hi>Fecit sumoniri per universos, Consulatus Anglia Angos Nobiles &amp; Sapientes sua lege e<g ref="char:EOLhyphen"/>rudi os ut coram &amp; nira &amp; consuetudines ab ip<g ref="char:EOLhyphen"/>sis Archiepiscopis, &amp; Episcopis audiret.</hi>
+                     </p>
+                     <p>And often doth he and his Son call <hi>William, Archiepiscopis, Episcopis, Abbates, Comi<g ref="char:EOLhyphen"/>tes, Baronies, Vicecomites, cum suis militibus ad Consulendum.</hi> And likewise oftentimes after<g ref="char:EOLhyphen"/>wards, until the time of <hi>Henry</hi> the first, we find that there were <hi>Conventus Episcoporum, Abbatum &amp; Procierum Regni Londini, in Pa<g ref="char:EOLhyphen"/>latio Regis:</hi> Wherefore, <hi>Pollidore Virgil,</hi> and <hi>Palladine</hi> were much deceived if they thought that <hi>Henry</hi> the first's Parliament within this Realm; neither do they seem
+<pb n="11" facs="tcp:41640:8"/>to be of that opinion, their words being that <hi>Reges ante tempora Henrici Primi, non consueverunt populi Conventum consultandi cau<g ref="char:EOLhyphen"/>sa nisi per raro facere.</hi>
+                     </p>
+                     <p>Therefore they might hold some, though not so often as their Successors, or agree<g ref="char:EOLhyphen"/>ing with the Manuscript of <hi>Canturbury.</hi>
+                     </p>
+                     <p>That the first Parliament wherein the Commons were called, as well as the Peers and Nobles was 16 <hi>H.</hi> 1. for it is true that after the Conquest until this time, the Commons were not called; and so at this time they will have it first called by the name of Parliament, indeed if the po<g ref="char:EOLhyphen"/>licy of the time be noted that may yeild some difference. The strangers had no way to make permanent their Victory, but by adding other Laws, and plucking up the old roots of Families they found, and to plant them in themselves as in new grounds.</p>
+                     <p>So for that age it was their wisdom to rule, and not to advise with the people. But <hi>Henry</hi> the first, a new budd of the old stock, being a natural <hi>Englishman</hi> himself, born at <hi>Selby</hi> in <hi>Lincolnshire</hi> in love of the <hi>English</hi> Nation to whom he ought his strength.</p>
+                     <p>The <hi>Normans</hi> at that time standing at Terms of revolt from him in favour of his
+<pb n="12" facs="tcp:41640:9"/>Brother <hi>Robert</hi> Duke of <hi>Normandy,</hi> he well understanding the love of his people, cal<g ref="char:EOLhyphen"/>led them to his great Councils, and setling the Authority of this Court of Parliament, so Established his Throne, that neither <hi>Britain, Dane,</hi> nor <hi>Saxon</hi> could ever after to this day disturb either him or his posterity, from the possession of this Land; the making of his Laws were by act of Parliament: the Marriage of his Daughter <hi>Mawde;</hi> and the intailing of the Crown to her, were done by Act of Parliament.</p>
+                     <p>The Accord made between <hi>Stephen</hi> and him, was made by Parliament. And con<g ref="char:EOLhyphen"/>sequently all the succeeding Kings since, have ever concluded <hi>Grandia Regni</hi> only in the Parliament, yet all the times since have not kept the said form of the Assem<g ref="char:EOLhyphen"/>bling of the three Estates. For sometimes the principal of the Nobility were only called, and they, at the end of the Parlia<g ref="char:EOLhyphen"/>ment were to impart to the other Barons and their Country, that was done in the Parliament. Afterwards King <hi>John</hi> or<g ref="char:EOLhyphen"/>dained, that all the Barons of <hi>England</hi> should come in their proper persons to the Parliament, being Summoned. 20 Knights fees, after 20 <hi>l.</hi> a fee; going to the value of one entire County; 18 Knights fees ma<g ref="char:EOLhyphen"/>king
+<pb n="13" facs="tcp:41640:9"/>an entire Baron, by which they sat.</p>
+                     <p>But King <hi>H.</hi> 3. after he had smarted by the Tumultuation of the Barons, their multitudes bringing Confusion, ordained that those Earls and Barons, only to whom he directed his writ should come un<g ref="char:EOLhyphen"/>to the Parliament and none else. And this with <hi>H.</hi> 3. began his Son <hi>Edward</hi> the 1. the Founder of this our civil Estate, calling the Barons, and appointing the Knights and Burgesses to be elected, and of the Bar<g ref="char:EOLhyphen"/>rons selected the wisest, and such as pleased him, and did omit them, and their Chil<g ref="char:EOLhyphen"/>dren, which did not equal them, and their Parents, in Wisdome and Vertue: So held it until the time of <hi>Edward</hi> the 3. there being then a writ then in use, <hi>De ad<g ref="char:EOLhyphen"/>mittendo fide dignos ad colloquium.</hi>
+                     </p>
+                     <p>Some also at that time called, as <hi>William</hi> Earl of <hi>Nottingham,</hi> to attend upon the King with 120 men at Arms, <hi>Lawrence de Hastings</hi> Earl of <hi>Pembroke,</hi> with 120 at Arms, and so divers others. The calling was with distinction; the Bishops and Barons, <hi>De negotiis tractatu &amp; consilium impensuri,</hi> the Knights, and Burgesses <hi>Ad faciendum &amp; consentiendum,</hi> those times had certain Or<g ref="char:EOLhyphen"/>dinances besides Statutes; For whatsoe<g ref="char:EOLhyphen"/>ver the Lords and Commons agreed upon,
+<pb n="14" facs="tcp:41640:10"/>was presently an ordinance, but when the King gave his Royal assent unto any ordi<g ref="char:EOLhyphen"/>nance, it then became a Statute.</p>
+                     <p>For the Kings Answer is no more, <hi>Le Roy le wile, on le Roy le avisera.</hi>
+                     </p>
+                     <p>And before the Printing of Acts was used, they were always Engrossed, and Sealed with the Great Seal of <hi>England,</hi> and proclaimed in every Shire; which use was continued from the time of <hi>H.</hi> the Third, until <hi>H.</hi> the Seventh's days.</p>
+                     <p>And the form was, the King, by the advice of the Lords Spiritual and Tempo<g ref="char:EOLhyphen"/>ral, at the special instance of the Commons assembled in Parliament, hath made and established these Ordinances and Statutes, to the Honour of God, the good of the King and Realm. In which words you may observe a summary of this great Council.</p>
+                     <p n="1">1. First, the persons the three Estates.</p>
+                     <p n="2">2. Secondly, The end for which the Parliament was called <hi>(viz.)</hi> the Honour of God, <hi>&amp;c.</hi>
+                     </p>
+                     <p n="3">3. Thirdly, The means by Council and consent each duty of the three de<g ref="char:EOLhyphen"/>grees is insinuated in these three things, <hi>(viz.)</hi> request of the Commons, advice of the Lords, and establishment of the King.</p>
+                     <p n="1">
+                        <pb n="15" facs="tcp:41640:10"/> 1. The first expressing the suiters for the Royal assent is never prayed by the Lords, but by the Speaker, the mouth of the Commons.</p>
+                     <p n="2">2. The Second, distinguishing the House, the King hearing the Causes debated only by the Lords.</p>
+                     <p n="3">3. The Third, intimating that no Bill receiveth life until the Royal assent be given.</p>
+                     <p>So by looking back it is easy to see the great Antiquity of this great Court, dedu<g ref="char:EOLhyphen"/>ced as you see from before the <hi>Romans,</hi> but never so dignified as since Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeths</hi> time.</p>
+                     <p>Now for the nature of a Parliament, It is <hi>Consilium</hi> and it is <hi>Curia;</hi> the power of it in matters hereditary and personal. The proceedings of it in causes Criminal and Civil.</p>
+                     <p>The privileges of it, <hi>Sedentibus Sernien<g ref="char:EOLhyphen"/>tibus.</hi> The Offices, Officers, and order of that Court; we leave to a farther dis<g ref="char:EOLhyphen"/>course; thus much only of the Antiquity of Parliaments in <hi>England.</hi>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <pb n="16" facs="tcp:41640:11"/>
+                     <head>The Antiquity, Power, Or<g ref="char:EOLhyphen"/>der, State, Manner, Persons, and Proceedings of the High Court of Parliament.</head>
+                     <byline>Dodridge.</byline>
+                     <p>THe most Ancient and First Parliament is that in <hi>Pollidore Virgil,</hi> in the Reign of <hi>H.</hi> 1. the 16th year, which was about the year of our Lord God 1106. and that was held at <hi>Salisbury</hi> (as he saith) where were assembled with the King, all the Prelates, Nobles, and Commons, to con<g ref="char:EOLhyphen"/>sult for the publick weal, and as he think<g ref="char:EOLhyphen"/>eth before that day, the King never called the people to consult, or make Laws, and he deriveth the name of the <hi>French</hi> word <hi>Parler.</hi>
+                     </p>
+                     <p>There is an Ancient Roll in some mens hands, which describeth the whole State and Order of the Parliament, and the title
+<pb n="17" facs="tcp:41640:11"/>of it is, <hi>De modo tenendi Parliamentum.</hi> And it is further described, <hi>modus quomodo Parliamentum Regis Angliae &amp; Angli Su<g ref="char:EOLhyphen"/>moniri tenebatur temporibus Regis Edwardi filii Etheldredi, qui modus recitatus fuit co<g ref="char:EOLhyphen"/>ram Willielmo Duci Normandiae conquestore Rege Angliae, &amp; per ipsum approbatus.</hi>
+                     </p>
+                     <p>By this it should seem, as they are de<g ref="char:EOLhyphen"/>scribed in that Roll, were held in the time of <hi>Edward the Holy;</hi> for he was the Son of <hi>Etheldred.</hi> For <hi>Edward</hi> the Elder was the Son of <hi>Alfrid,</hi> and this <hi>Edward the Holy</hi> lived about the year 1043. And by this it should seem also that the Con<g ref="char:EOLhyphen"/>querour held a Parliament. In this it is first set down what Clergy-men were called, which were not only Bishops, but Abbots and Priors, that held <hi>Per Baroniam.</hi> By which I do gather, that they came not to that place as they were Spiritual men, but by reason of their Temporal Honour that they enjoy in the Commonwealth.</p>
+                     <p>For they have a place in the Convoca<g ref="char:EOLhyphen"/>tion in respect of their Spiritual function, and in that they are a part in the Court of Parliament.</p>
+                     <p>We read of a Parliament in 35. <hi>E.</hi> 1. in which were sixteen Abbots and eight Pri<g ref="char:EOLhyphen"/>ors, but how many of these were of the
+<pb n="18" facs="tcp:41640:12"/>house in general, for that I know it is not clear, that there was then a distinction of Houses.</p>
+                     <list>
+                        <item>1. The First is <hi>de Clericis.</hi>
+                        </item>
+                        <item>2. The Second <hi>de Laicis.</hi>
+                        </item>
+                        <item>3. The Third is <hi>de Militibus.</hi>
+                        </item>
+                        <item>4. The Fourth is <hi>de Cinibus.</hi>
+                        </item>
+                        <item>5. The Fifth <hi>de Burgensibus.</hi>
+                        </item>
+                     </list>
+                     <p>All other Circumstances of Places, Times, Orders, and such like are recited, which I omit to remember particularly, because I know that is a thing well known to all this Company: And that it differeth from the order of that Court now used.</p>
+                     <p>The Court of Parliament hath a double power, the one to consent by way of de<g ref="char:EOLhyphen"/>liberation, for the good Government of the Commonwealth, and so it is <hi>Consilium,</hi> not <hi>in Curia;</hi> and another power it hath as a Court of Administration of Justice.</p>
+                     <p>The principal purpose of that Assembly seemeth to be for Consultation; For the Writs are, <hi>Ad consult andum &amp; deliberandum;</hi> but being assembled, they may hold Plea of Causes.</p>
+                     <p>But the difference I find, that in Cri<g ref="char:EOLhyphen"/>minal Causes both the upper House and lower House entermeddle therewith, as in Attainders: Only in these, the
+<pb n="19" facs="tcp:41640:12"/>Spiritual Lords do all go out of the House, and give their Assent by Proxies, 10 <hi>E.</hi> 4.6.</p>
+                     <p>But in Civil Causes, as in Writs of Er<g ref="char:EOLhyphen"/>ror sued there out of the <hi>Kings Bench,</hi> the Upper House only meddleth, as is well described in the Case of <hi>H.</hi> 7.19, 20. in a Writ of Error sued out by one <hi>Flowerdwe,</hi> on a Replevine, wherein Judgement was given against him in the <hi>Kings Bench.</hi>
+                     </p>
+                     <p>But we have an express Authority in 4 <hi>H.</hi> 7.18. That in a Criminal Cause the Commons must assent, for the King and Lords did attaint one, and nothing was said of the Commons, therefore by the opinion of the Justices, the Act was held void, and the party restored.</p>
+                     <p>The Peers of <hi>Scotland</hi> were wont to come to our Parliaments: For 39 <hi>E.</hi> 3.35. in a Writ of Banishment, <hi>Degard</hi> a<g ref="char:EOLhyphen"/>gainst <hi>Gilbert Umfrevile,</hi> he demanded Judgement of the Writ, because he was Earl of <hi>Angush,</hi> and not so named in the Writ. <hi>Angush</hi> (saith the Plaintiff) is out of ths Realm; yea, but, (said the Defen<g ref="char:EOLhyphen"/>dant) I am summoned to the Parliament by that name; and the Writ was abated.</p>
+                     <p>This therefore proveth, that the Peers of <hi>Scotland</hi> came to our Parliaments for
+<pb n="14" facs="tcp:41640:13"/>Justice. But <hi>Littleton</hi> saith 20 <hi>Ed.</hi> 4.6. that we shall implead an Earl or Duke of <hi>France,</hi> by the name of Knight only.</p>
+                     <p>I need not declare of the nature of a Parliament, how that it is a Body Poli<g ref="char:EOLhyphen"/>tick; or of what parts and members it consisteth, for that is very well understood of all this learned Company; neither of the Order of it at this day, for most here know that of their own experience.</p>
+                     <p>The priviledges of it are great, and more safely be discussed, what they are without the House in regard of others, than what they are in the House, for their Liberties there.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="20" facs="tcp:41640:13"/>
+                     <head>Of the Antiquity of the Par<g ref="char:EOLhyphen"/>liament in <hi>England.</hi>
+                     </head>
+                     <byline>Agar.</byline>
+                     <p>That which we in <hi>English</hi> call a Parlia<g ref="char:EOLhyphen"/>ment, I suppose and know to have taken the Name from the <hi>French,</hi> and <hi>Nor<g ref="char:EOLhyphen"/>man</hi> Tongue, sounding upon the word <hi>Parle</hi> or <hi>Parler,</hi> to speak or discourse. In Latin I find that it was called before the which is used most for the assembly of the Spiritualty to treat of Divine causes, and so was practised when <hi>Augustine</hi> came to <hi>Canterbury,</hi> where the King of <hi>Kent</hi> cal<g ref="char:EOLhyphen"/>led <hi>Ethilbert,</hi> gathered his Nobles and peo<g ref="char:EOLhyphen"/>ple to understand the message, and Preach<g ref="char:EOLhyphen"/>ing of <hi>Augustine;</hi> and again it is termed <hi>Consultatio</hi> as hereafter shall be set down, and in that sense in <hi>Anno Domini</hi> 833. <hi>Whitlasias Dux Winnoy. Winnoy</hi> a great Lord or Prince amongst those of the Fens called <hi>Girrii,</hi> or <hi>Girrogii,</hi> in his Charter for the
+<pb n="22" facs="tcp:41640:14"/>founding of the Abbey of <hi>Ramsey,</hi> in which he termeth <hi>Egbert</hi> King, and <hi>Atherlworlfe</hi> his Son to be <hi>Dominos suos;</hi> and he dateth his Charter thus, <hi>Datum apud Londini vi<g ref="char:EOLhyphen"/>tatem ubi, omnes Congregatum sumus pro con<g ref="char:EOLhyphen"/>silio capiendo contra Danitos Piratos littora Angli assidue infestantes.</hi>
+                     </p>
+                     <p>This mentioneth <hi>Ingulphus;</hi> So that it appeareth when any eminent peril drew near for the hurt of the Common wealth, that then there were called in the History of <hi>Eli Duces, Principes, Satrapae Rectores &amp; causidici,</hi> also <hi>convenerunt Angelicinus, Aldermani, &amp; Episcopus Oswinus, &amp; alii E<g ref="char:EOLhyphen"/>piscopi, &amp; omnes meliores, contionatores de com. &amp;c.</hi>
+                     </p>
+                     <p>And the same Author sheweth <hi>Brith<g ref="char:EOLhyphen"/>mothus,</hi> most noble Duke of <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi> was called Alderman, <hi>id est, Senior vel Dux qui Dinodo magna constantia restituit Re<g ref="char:EOLhyphen"/>gem Edgarum &amp; alios Monachos dicens, ne<g ref="char:EOLhyphen"/>quaquam se ferre posse ut Monachi ejicerentur de Regno qui omnem Religionem tenuerunt &amp; coluerunt in Regno.</hi>
+                     </p>
+                     <p>King <hi>Offa</hi> in his Charter granted to the Abbey of <hi>Chertsie,</hi> hath these words, <hi>Hanc libertatem omnia predicta ad pre<g ref="char:EOLhyphen"/>fatum monasterium pertinentia in Sinodali conventu in loco nomi<g ref="char:EOLhyphen"/>natur</hi>
+                        <note place="margin">Historia de Chetersey.</note>
+                        <pb n="23" facs="tcp:41640:14"/>
+                        <hi>Edresdenae &amp;c. &amp; Testes consistentes consensu &amp; subscripsi, &amp;c. in Historia Cherisey penes me remanente.</hi>
+                     </p>
+                     <p>
+                        <hi>Canutus</hi> the <hi>Dane,</hi> beginning his Laws, sheweth plainly that he made the same by the advice and Council of a Parliament, and beginneth thus: <hi>Haec est consolatio, quam Canutus Rex mediatione vel decreto suo<g ref="char:EOLhyphen"/>rum sapientum conciliatus est cum suis sapienti<g ref="char:EOLhyphen"/>bus apud Wintoniam, &amp;c.</hi> Where I observe an old Written Copy, with a Comment thereupon: And they are expounded thus, <hi>Consiliatio id est institutione multorum facto concilio.</hi>
+                     </p>
+                     <p>
+                        <hi>Item constitutionem pro institutione, ponit ut innuat haec non instituta fuisse suo proprio arbitrio, sed multorum consilio.</hi> And the said King <hi>Canutus</hi> in the preamble of his said Laws, in this manner: <hi>Convocato itaque Comitum Procerumque conventu &amp; Eporum, Abbatum, &amp; caeterorum Nobilium, Nec non &amp; caetera nobilitatis, sapientiaeque totius An<g ref="char:EOLhyphen"/>gliae concilio satagebat communi decreto ut in quantum humana ratio valeat ea quae justa fu<g ref="char:EOLhyphen"/>erunt stabiliret, &amp;c.</hi>
+                     </p>
+                     <p>And in the said preamble is set down that before his time Synods, and Assem<g ref="char:EOLhyphen"/>blies for the Commonwealth were very rare, saying; <hi>Ecclesiae institutiones, Synodo<g ref="char:EOLhyphen"/>rumque
+<pb n="24" facs="tcp:41640:15"/>conventus apud Anglos inusitati ad huc fuerunt:</hi> And the reason I suppose was, be<g ref="char:EOLhyphen"/>fore <hi>Canutus</hi> the Realm was Governed by several Kings, but he having Conquer<g ref="char:EOLhyphen"/>ed them all, and reduced them into one Monarchy alledgeth in this preamble, <hi>Sunt in uno Rege, ita &amp; una lege universum An<g ref="char:EOLhyphen"/>glia Regnum regetur.</hi>
+                     </p>
+                     <p>So as I conclude in this point, that be<g ref="char:EOLhyphen"/>fore <hi>Canutus</hi> there were no Parliaments in <hi>England,</hi> the reason I have shewed before, which was the diversity, and continual interwar, betwixt the Heptarchy, by him reduced into a Monarchy: Since this time I find that King <hi>Edward</hi> the Confessor in his Charter made to <hi>Westmin<g ref="char:EOLhyphen"/>ster</hi> Abbey, did seal the same at a Parlia<g ref="char:EOLhyphen"/>ment. For thus he saith, <hi>Hanc igitur do<g ref="char:EOLhyphen"/>nationem liberalitatem in die dedicationis pre<g ref="char:EOLhyphen"/>dicta Ecolesia recitari nici coram Episcopis, Abbatibus comitibus, &amp; omnibus optimatibus Angliae omnique popluo audiente, &amp; vidente;</hi> where note these words <hi>omnibus optimatibus Angliae, &amp; omni populi audiente, &amp;c.</hi> which cannot be but in a general Assembly, by Summons, and that is proved by the num<g ref="char:EOLhyphen"/>ber, and diversity of the Witnesses, being Bishops, Abbots, Kings Chancellors, Kings Chaplains, Dukes, Earls, <hi>&amp; ministri multi, &amp;c.</hi>
+                     </p>
+                     <pb n="25" facs="tcp:41640:15"/>
+                     <p> And <hi>William</hi> the Conqueror in his Char<g ref="char:EOLhyphen"/>ter of his Ratification of the liberties of that Church, after he had subscribed the Cross with his name, and besides him a great number of others of the Clergy and Nobility, instead of <hi>cum multis aliis</hi> hath these words, <hi>multis praetera illustrissimis virorum per sonis, &amp; Regni Principibus di<g ref="char:EOLhyphen"/>versi ordinis omissis qui similiter hinc confirma<g ref="char:EOLhyphen"/>tione plissimo affectu testes, &amp; fautores fuerunt hii etiam illi tempore a Regia potestate a diver<g ref="char:EOLhyphen"/>sis Provinciis, &amp; verbibus ad universalem Synodum pro causis cujuslibet Sanctae Ecclesiae audiendis &amp; tractandis quod Westmonasterium dicitur convocati, &amp;c.</hi>
+                     </p>
+                     <p>And in another Charter of his to the said Abbey are these words, <hi>Anno incarna<g ref="char:EOLhyphen"/>tionis Domini</hi> 1081. <hi>Regni etiam pronominati gloriosi Regis Willielmi</hi> 150 <hi>convenientibus in unum eunctis primis Primatibus in Nativi<g ref="char:EOLhyphen"/>tate D. N. I. &amp;c.</hi>
+                     </p>
+                     <p>I Read not in <hi>Rufus</hi> time of any Parlia<g ref="char:EOLhyphen"/>ment, but it appears in the Red Book of the Exchequer, that <hi>Hen.</hi> 1. before the making, or constitution of his Laws set<g ref="char:EOLhyphen"/>teth down, <hi>Quae Communi consilio &amp; con<g ref="char:EOLhyphen"/>sensu Barronum Regni Angliae &amp;c.</hi> and then proceedeth, <hi>omnes malus consuetudines qui<g ref="char:EOLhyphen"/>bus Kegni Angliae oprimebatur inde aufero
+<pb n="26" facs="tcp:41640:16"/>quas ex parte suppono Testibus Archiepiscopis, Baronibus, Comitibus, Vicecomitibus, &amp; opti<g ref="char:EOLhyphen"/>matibus Regni Angliae apud Westmonasterium quando coronatus sui.</hi>
+                     </p>
+                     <p>The Marriage of his Daughter <hi>Mawde,</hi> and the intailing of the Crown to her and her Heirs, was done by Parliament; and so consequently all matters of importance was done and concluded, which the accord between him and <hi>Stephen</hi> was done in Par<g ref="char:EOLhyphen"/>liament, and of such force is an Act of Parlia<g ref="char:EOLhyphen"/>ment. Herein the Government of the State of the Realm, as it is deemed as an Oracle from Heaven, and resteth only in the King and Queens power to qualifie and mitti<g ref="char:EOLhyphen"/>gate the severity thereof. And thus much of the Antiquity.</p>
+                     <p>I leave to others to discourse of the manner how they that are to treat there<g ref="char:EOLhyphen"/>in are to be called, and of their privi<g ref="char:EOLhyphen"/>ledges. And so I end.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="33" facs="tcp:41640:16"/>
+                     <head>The Antiquity of Parliaments.</head>
+                     <byline>Tate.</byline>
+                     <p>THe diligent observers of the Antiqui<g ref="char:EOLhyphen"/>ty of this Realm, do very well know that Acts of Parliament are of so huge a nature, that they do not only tye the Inheritance of every man, but what is there Ordained, every subject of this Land is bound to take notice of at his pe<g ref="char:EOLhyphen"/>ril. And because no man that should de<g ref="char:EOLhyphen"/>sire to inform himself therein should be ignorant what was done in Parliament, as now we use Printing of the Acts, so be<g ref="char:EOLhyphen"/>fore Printing, all the Ordinances affirmed by Royal assent, were Recorded, and then published under the Great Seal of <hi>England,</hi> with a general Preface, and proclaimed in every Shire. This you may see coutinued from the time of <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the Third till about <hi>H.</hi> the Seventh's days; and ordinarily the form was thus.</p>
+                     <pb n="34" facs="tcp:41640:17"/>
+                     <p> The King such a day, and at such a place, as at <hi>Westminster,</hi> the second day of <hi>April,</hi> in the second year of the Reign of King <hi>H.</hi> 6. by the advice of the Lords Spiritual and Temporal, and at the spe<g ref="char:EOLhyphen"/>cial instance and request of the Commons assembled in Parliament, hath made and established these Ordinances, Acts and Statutes, to the honour of God, and good of the King, in form following: And then sets forth every Act in particular Chap<g ref="char:EOLhyphen"/>ter.</p>
+                     <p>Here you may see the persons assem<g ref="char:EOLhyphen"/>bled, the end of their meeting, and the means to make it effectual. The persons which meet at the Parliament are the Land, the end of the meeting is to be something to Gods glory, the Kings good, and the benefit of the whole land, and the means to effect the same is by Con<g ref="char:EOLhyphen"/>sultation and Consent.</p>
+                     <p>The particular Duty of each of these three, seems to be insinuated in these words: First, the request of the Com<g ref="char:EOLhyphen"/>mons; Secondly, the advice of the Lords; Thirdly, the establishment of the King. The Commons being most in number, and such as live in all parts and places of the Land, are like to have most and best notice
+<pb n="35" facs="tcp:41640:17"/>of such things as are most likely and meet to be provided for; and being weak in power, and most subject to such inconveniences as greatness may lay upon them, and there<g ref="char:EOLhyphen"/>fore are fittest,</p>
+                     <p>First, to lay open their Griefs, and pray Reformation; or though they be not able at the first; with Judgment to foresee ensuing dangers, yet the same be<g ref="char:EOLhyphen"/>ing once purposed, and instantly appre<g ref="char:EOLhyphen"/>hended, they may with instance impor<g ref="char:EOLhyphen"/>tune allowance of such Laws as may turn to their good, and our own experience teacheth us that the Royal assent was never prayed by the Lords, but by the Spea<g ref="char:EOLhyphen"/>ker, who is the mouth of the Commons.</p>
+                     <p>In the presence of a Prince a common person will scarce have the Audacity to speak, but when necessity maketh him crave help.</p>
+                     <p>And therefore it is properly said, that the King advised with the Lords because he heareth the Causes debated with them only; the Commons being separated for consultation, what were fit to propose into some other place.</p>
+                     <p>Whatsoever the Lords and Commons agree upon is an Ordinance presently, though it be never ingrossed, and Sealed
+<pb n="36" facs="tcp:41640:18"/>with the Great Seal, and proclaimed in the Countries, as the common course was; but it took no effect as a Statute, till the King declared his Royal assent, which he might very well do by Writ after the Parliament, as well as during the Parlia<g ref="char:EOLhyphen"/>ment, <hi>p.</hi> 29. <hi>Ed.</hi> 3. <hi>fol.</hi> 46.39 <hi>Ed.</hi> 3. <hi>fol.</hi> 7. For the Kings Answer is no more, but that he will be advised whether he will assent or no.</p>
+                     <p>And if he assent not till after, it is some doubt whether it be an Act of Parliament, or but from the time of the Royal assent given.</p>
+                     <p>The general assent of the Realm to make Ordinances and Laws, the Ancient Writers called <hi>Concilium commune concili<g ref="char:EOLhyphen"/>um magnum concilium, Placitum generale cu<g ref="char:EOLhyphen"/>ria altissima &amp; Parliamentum generale Curia altissimum &amp; Parliamentum generale seu al<g ref="char:EOLhyphen"/>tissimum.</hi>
+                     </p>
+                     <p>The <hi>Saxons</hi> called it <hi>Gemote, Pirena,</hi> or <hi>Pizena Gemore, Ealpa, Zemots, Synods.</hi>
+                     </p>
+                     <p>I find not the word Parliament before the beginning of <hi>Edward</hi> the First fully in use amongst us, but the assembly of the three Estates to consult of the affairs of the Commonwealth, is as Ancient as the <hi>Britains,</hi> and continued here in the
+<pb n="37" facs="tcp:41640:18"/>time of the <hi>Saxons</hi> days, and <hi>Normans.</hi>
+                     </p>
+                     <p>I ground my opinion for the <hi>Britains</hi> upon no express authority, but by Infe<g ref="char:EOLhyphen"/>rence out of divers. 1 <hi>Ed.</hi> 1. <hi>Caes. Com. lib.</hi> 5. <hi>cap.</hi> 5. saith, <hi>Summa Imperii bellique administrandi commissa est Cassibulano,</hi> so that here we have the name. And if you think that the Commons were not called to this Consultation, hear what <hi>Zothilius</hi> saith of the <hi>Britains, Apud hos populus magna ex parte primatum tenet,</hi> exclude themselves of these general Councils, and you de<g ref="char:EOLhyphen"/>prive them of this right: <hi>Vitas in Histor. Britain. lib.</hi> 8. <hi>fo.</hi> saith, That <hi>Arthurus Vi<g ref="char:EOLhyphen"/>ctor cum Regio Splendore Londinum ingredi<g ref="char:EOLhyphen"/>tur, eaque urbe convocatis clericis Principi<g ref="char:EOLhyphen"/>busque suae quidem potestatis omnibus consilium quod optime factu sit capit Beda, lib.</hi> 2. <hi>cap.</hi> 2. saith the <hi>Britains</hi> told <hi>Augustine,</hi>
+                     </p>
+                     <p>
+                        <hi>Se non posse absque suorum ac licentia pris<g ref="char:EOLhyphen"/>cis abdicare moribus Beda, lib. cap.</hi> 13. <hi>Rex Edwinus antequam fidem Christianam sub<g ref="char:EOLhyphen"/>scriperet Dixit se non amicis Principibus, &amp; consiliariis suis collaturum, &amp; habito sapienti<g ref="char:EOLhyphen"/>bus consilio,</hi> &amp;c.</p>
+                     <p>The Story of the <hi>Saxons</hi> and their Laws make evident proof that they were still of the same mind, transplanted hither, as <hi>Tacitus</hi> saith the <hi>Germans</hi> were, <hi>nec Regi<g ref="char:EOLhyphen"/>bus
+<pb n="38" facs="tcp:41640:19"/>infinito potestas de minoribus rebus Prin<g ref="char:EOLhyphen"/>cipes consultant de majoribus vero omnes.</hi>
+                     </p>
+                     <p>
+                        <hi>Historia Eliensis lib.</hi> 2. <hi>de Dunelme mortuo Rege Edgaro Lessius (vel Lepsius) Deo, &amp; Sancto Petro abstulit cum rapina Burch, &amp; Vendales &amp; Cataringas postea alicibatur ge<g ref="char:EOLhyphen"/>nerale placitum apud Londinum ad quoddum Duces, Principes, Satrapae, Rectores, &amp; cau<g ref="char:EOLhyphen"/>sadici ea omni parte confluxerunt, Beatus E<g ref="char:EOLhyphen"/>thelwaldus lessium in vis protaxit coram cun<g ref="char:EOLhyphen"/>ctis injuria patefecit, &amp; bene aparte discussa ea omnes Ethelwaldo per judicium reddide<g ref="char:EOLhyphen"/>runt Burch, &amp; vendales &amp; Katheringas.</hi>
+                     </p>
+                     <p>
+                        <hi>Ingulphus</hi> hath many places to the like purpose, but I will use but one, <hi>In festo Nativitatis Beatae Mariae cum universi mag<g ref="char:EOLhyphen"/>nates Regni per Regni edictum summoniti tam Archiepiscopi, Episcopi &amp; optimates Londoiis convenerunt ad tractandum de Negotiis pub<g ref="char:EOLhyphen"/>licis totius Regni consummatis omnibus coram universis Domino Turkettillo Abbati Mona<g ref="char:EOLhyphen"/>chisque suis accersitis Rex Etheldredus dedit Monasterium Croyland,</hi> &amp;c.</p>
+                     <p>
+                        <hi>Polidore, Virgil</hi> and <hi>Paradine</hi> are there<g ref="char:EOLhyphen"/>fore much deceived if they thought <hi>Henry</hi> the first that held any Parliament in this Realm, neither do they seem to be of that mind: Their words are, <hi>Reges ante Tem<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: blotted" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ora H.</hi> 3. <hi>non consueverunt Populi conven<g ref="char:EOLhyphen"/>tum
+<pb n="39" facs="tcp:41640:19"/>consultandi causa nisi pro raro facere.</hi> Yet I think their Successors held Parlia<g ref="char:EOLhyphen"/>ments oftener than they did, yet never<g ref="char:EOLhyphen"/>theless they held some. And <hi>William</hi> the Conquerour challenged not so absolute a Conquest of this Land: But the Law he made hath this Title, <hi>Hic intimatur quod Gulielmus Rex cum Principibus suis constituit,</hi> &amp;c. And I think all Kings may yield to consult with their poople, for that reason which <hi>Alfrid</hi> used in his Preface to his Laws, <hi>Temeritatis videatur ex suis ipsius de<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: blotted" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>retis quenquam plura literarum Monumenta consignare cum incertum sit qualem apud po<g ref="char:EOLhyphen"/>steros habitura quae nos magni facimus.</hi>
+                     </p>
+                     <p>I have not seen <hi>Arthur Halls</hi> Book whereby he disalloweth the Commons to have any voice in Parliament, and for which he is disabled to be of the same House for ever, but I think he mistaketh some Writers meaning, which speak only of Barons, or Magistrates, but words are not so much to be regarded as whatso<g ref="char:EOLhyphen"/>ever the Parliament alloweth, it bindeth as a Law, though it be set forth only in the Kings name, as the Statute of <hi>Glo<g ref="char:EOLhyphen"/>cester</hi> and <hi>Magna Charta,</hi> or in the names of the Commons only.</p>
+                     <pb n="40" facs="tcp:41640:20"/>
+                     <p> In the Kings Oath the word <hi>(Populus)</hi> extendeth to the greatest Subjects of the Land, and so doth it also in a Recogni<g ref="char:EOLhyphen"/>zance of the peace or good behaviour <hi>quod bene se gerat erga populum cunctum;</hi> If therefore he strike or misdemean himself towards a Baron the Recognizance is forfeited.</p>
+                     <p>There is an express Authority that pro<g ref="char:EOLhyphen"/>veth that the word <hi>Magnates</hi> comprehend<g ref="char:EOLhyphen"/>eth the people. <hi>Howden</hi> saith <hi>Anno</hi> 1170. <hi>Rex celebrat magnum consilium Londinum cum Principibus &amp; magnatibus terra de coro<g ref="char:EOLhyphen"/>natione. A. filii sui &amp; Domini sequenti Clero &amp; populis consentientibus fecit ipse filium Suum Coronari.</hi>
+                     </p>
+                     <closer>
+                        <signed>Francis Tate.</signed>
+                     </closer>
+                  </div>
+                  <div type="part">
+                     <pb n="41" facs="tcp:41640:20"/>
+                     <head>The Antiquity of Parliaments.</head>
+                     <byline>Camden.</byline>
+                     <p>THat there were such like Assemblies as Parliaments now are, before the <hi>Romans</hi> arrival, hear some rather by the words of <hi>Caesar, lib.</hi> 5. <hi>De Bello Gallico, Summa Imperii bellique administrandi commu<g ref="char:EOLhyphen"/>ni concilio premissa est Cassibulano:</hi> and for not such due holding of Common Coun<g ref="char:EOLhyphen"/>cils.</p>
+                     <p>
+                        <hi>Tacitus</hi> seemeth to refer the happy pro<g ref="char:EOLhyphen"/>ceedings of the <hi>Romans</hi> against the <hi>Bri<g ref="char:EOLhyphen"/>tains, A quod in communi non consulerunt.</hi>
+                     </p>
+                     <p>These Parliament Assemblies the <hi>Bri<g ref="char:EOLhyphen"/>tains</hi> do call <hi>Rifrithem,</hi> because Laws were there Enacted.</p>
+                     <p>The English <hi>Saxons</hi> as soon as they set<g ref="char:EOLhyphen"/>tled themselves held also the like Assem<g ref="char:EOLhyphen"/>blies, which they called in their Ancient English Tongue <hi>Gereduists,</hi> or a Council; sometime <hi>Wittena motts,</hi> a meeting of
+<pb n="42" facs="tcp:41640:21"/>wise men; and sometime of the <hi>Greek</hi> word <hi>Synoth.</hi> The Latin Authors of that age did call it, <hi>Concillium magnatum con<g ref="char:EOLhyphen"/>ventus,</hi> and <hi>Praesentia Regis Praelatorum Procerumque collectorum,</hi> as appeareth by the Charter of King <hi>Edgar</hi> to the Abbey of <hi>Croyland,</hi> in the year 966.</p>
+                     <p>At which time, it seemeth by the sub<g ref="char:EOLhyphen"/>scribing and subsigning, that Abbasses had the Voices there, and Consents, as well as the Prelates and Nobles of the Land.</p>
+                     <p>After the <hi>Norman</hi> Conquest, the two first Kings Reigned with their Swords in their hands, absolutely of themselves, <hi>(viz.)</hi> the Conqueror, and <hi>William Rufus</hi> his Son, not admitting of themselves any general Assemblies of the States of the Realm, but permitting only Provincial <hi>Synodus</hi> of the Clergy, for composing of Ecclesiastical Controversies (as some write) wherein they themselves sate nevertheless as Presidents.</p>
+                     <p>Yet in their meeting (as it is in <hi>Hovedon</hi>) where he setteth down the Laws of <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> the Conqueror, he did set them down, and Councel of the Barons.</p>
+                     <p>
+                        <hi>Fecit Summoniri per Universis consulatus Angliae. Anglies Nobiles &amp; Sapientes &amp; suae lege eruditos ut eorum &amp; vira &amp; consuetudines
+<pb n="43" facs="tcp:41640:21"/>ab ipsis audiret Electi igitur de singulis totius patriae comitatibus Viri, Duodecem in revi<g ref="char:EOLhyphen"/>rando confirmaverunt primo, ut quoad possuit recto tramite, neque ad dextram, neque ad Si<g ref="char:EOLhyphen"/>nistram partem de vertentes legum suarum consuetudinem &amp; Sanctitatem patefacerent in hill. pretermittentes nihil addentes nil preva<g ref="char:EOLhyphen"/>ricando mutantes.</hi>
+                     </p>
+                     <p>And oftentimes both he and his Son called the Arch-bishops, Bishops, Abbots, <hi>Archiepiscopos, Episcopos, Ab<g ref="char:EOLhyphen"/>bates, Comites, Baronies, Vice<g ref="char:EOLhyphen"/>comites,</hi>
+                        <note place="margin">Florentius Wi<g ref="char:EOLhyphen"/>gorensis.</note>
+                        <hi>cum suis militibus;</hi> and the time following we find that there was <hi>Conventus omnium Episcoporum Abbatum, &amp; Procerum Regni Londini, &amp; in Palatio Regis.</hi>
+                     </p>
+                     <p>But an old Manuscript-book saith that the First Parliament,<note place="margin">Liber Cantu<g ref="char:EOLhyphen"/>ar.</note> wherein the Commons were called as well as the Prelates and Nobles, was <hi>Anno</hi> 16 <hi>H.</hi> 1.</p>
+                     <p>And then was first called by the name of Parliament, as some say, from the Peers, <hi>a potiore parte quas parrum con<g ref="char:EOLhyphen"/>ventus;</hi> some derive it from the Peer, <hi>Rediculosi quasi partum lamentum;</hi> others more probably derive it from the <hi>French</hi> word <hi>Parler,</hi> or that of the <hi>Greek</hi>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, that is to treat and to con<g ref="char:EOLhyphen"/>ferr
+<pb n="45" facs="tcp:41640:22"/>together, some of the <hi>French</hi> Histo<g ref="char:EOLhyphen"/>ries write that this name in this sence be<g ref="char:EOLhyphen"/>gan at an Assembly of the Peers of <hi>France,</hi> about the year of Christ 1200. But I find the word to have been in use as in this Realm long before. For <hi>Ingulphus</hi> who died in the year 1109. used the word of the Meeting or Chapter of the Abbot and Convent, writing thus.</p>
+                     <p>
+                        <hi>Concessimus etiam tunc Seriantiem nom. Ecclesiae Seimano de Leke qui veniens coram conventu in Publico Parliamento nom. similiter viramentum prestit quod fidus nobis existerit:</hi> Neither do I doubt but that the word was brought into this Realm by the <hi>French</hi> mouth, and first used by the Statist in the time of <hi>H.</hi> 1. since that time the autho<g ref="char:EOLhyphen"/>rity of this Court hath stood setled, and the Commonalty hath had their voices which the said <hi>Henry</hi> the First granted unto them, being a natural <hi>Englishman</hi> himself, and the love of the <hi>English</hi> Nation; when at that time the <hi>Normans</hi> were on the terms of revolt from him in favour of his Brother Duke of <hi>Normandy.</hi>
+                     </p>
+                     <p>Now for the form of assembling these three sorts of Estates in this high Court. I find no certainty till the time of King <hi>John,</hi> it is apparent by a Petition exhi<g ref="char:EOLhyphen"/>bited
+<pb n="44" facs="tcp:41640:22"/>by the Lord <hi>Fitz Hugh</hi> in a Parlia<g ref="char:EOLhyphen"/>ment holden at <hi>Leicester</hi> 2 H. 1. that the principal Nobility were only called, and they after the end of the Parliament to impart unto the Barons and their Coun<g ref="char:EOLhyphen"/>try, what was done in the Parliament. Afterwards King <hi>John</hi> ordained that all the Barons of <hi>England</hi> should come in their proper persons to the Parliament whenso<g ref="char:EOLhyphen"/>ever they were Summonned: The for<g ref="char:EOLhyphen"/>mer I will deliver out of the words of the Petition.</p>
+                     <p>
+                        <hi>Ipse Dominus Rex quando generales Sumo<g ref="char:EOLhyphen"/>nitiones vicecomitibus cujuslibet commitatus dirigeret ipsos invingendo quod omnes Comites &amp; Barones quorum nomina infra Scripta fue<g ref="char:EOLhyphen"/>runt &amp; intra suas Ballivas residentes ipsi sum<g ref="char:EOLhyphen"/>monirent ad veniendum ad Parliamentum Regis, &amp; hoc non omittatur quaecunque ex causa Subpaena magni contemptus:</hi> At which time as it is in the Book intituled <hi>Modus tenendi Parliamentum,</hi> all Earls which have Land, Tenements and Revenues to the value of an entire Baron, which is 15 Knights fees and a half, come to the Par<g ref="char:EOLhyphen"/>liament, but when so great a multitude bred Tumultuous confusion, King <hi>H.</hi> 3. after that he had smarted by these confused multitudes of Barons, ordained that these
+<pb n="46" facs="tcp:41640:23"/>Earls and Barons unto whom he had di<g ref="char:EOLhyphen"/>rected his Writ should only come to Par<g ref="char:EOLhyphen"/>liament, so the Ancientest Summons which I have seen, which were <hi>Anno</hi> 49 <hi>H.</hi> 3. they were called besides the Earls 17 Barons, this which <hi>H.</hi> 3. began was fully perfected by King <hi>Edward</hi> the First, his Son, who elected the wisest, and such as pleased him, and likewise omitted them and their Children in his Summons, if they did not equal their Parents in wisdom and other good parts and Offices of valour and Government: So as we see in that time <hi>Helton, Corbet, Points, Leibourne, Va<g ref="char:EOLhyphen"/>vasar, &amp;c.</hi> and such other like were Sum<g ref="char:EOLhyphen"/>moned once or twice to Parliament, and their posterity, wholly omitted afterwards. The Barons, and Bishops were called <hi>De Negotiis tracturi, &amp; concilium impensuri,</hi> the Knights and Burgesses, <hi>ad faciendum &amp; con<g ref="char:EOLhyphen"/>sentiendum iis quae ibum de communi consilio di<g ref="char:EOLhyphen"/>cti Regni nom. favente deo, contigerit ordinari super de Negotiis ante dictis,</hi> and in the same words were the Clergy called <hi>Ad facien<g ref="char:EOLhyphen"/>dum &amp; consentiendum,</hi> so as it seemeth they had as much to do in Parliaments then as Knights of Shires and Burgesses.</p>
+                     <closer>
+                        <signed>William Camden.</signed>
+                     </closer>
+                  </div>
+                  <div type="part">
+                     <pb n="47" facs="tcp:41640:23"/>
+                     <head>Of the Antiquity of the Par<g ref="char:EOLhyphen"/>liaments in <hi>England.</hi>
+                     </head>
+                     <byline>Holland.</byline>
+                     <p>I find in many Ancient Histories that the Kings of this Land, did use to call to<g ref="char:EOLhyphen"/>gether the Nobility and States of this Realm to conferr with them especially a<g ref="char:EOLhyphen"/>bout matters of War, when any necessary occasion did move them thereunto.</p>
+                     <p>But it is thought by <hi>Hollingshed</hi> in his Chronicle that the first use of Parliament did begin with the Seventeenth year of <hi>Henry</hi> the First which since that time hath remained in force, and is frequented unto our times,<note place="margin">Holling sheds <hi>Chronicle.</hi>
+                        </note> insomuch as when any thing is to be de<g ref="char:EOLhyphen"/>creed appertaining unto the State of the Commonwealth, it shall not be received as a Law, until by authority of that as<g ref="char:EOLhyphen"/>sembly it shall be established.</p>
+                     <p>It is recorded amongst the Commons of
+<pb n="48" facs="tcp:41640:24"/>Parliament in the 35 <hi>E.</hi> 3. that there is one Writ <hi>De admittendo fide dignos ad colloqui<g ref="char:EOLhyphen"/>um;</hi> and amongst the Earls and Barons there is returned <hi>Marie countesse de Norfilk, Alia<g ref="char:EOLhyphen"/>nor Countesse de Ormone, Phillipp Countesse de March,</hi>
+                        <note place="margin">Camdens Britania.</note>
+                        <hi>Agnes Countesse de Pembrook and Katherine Coun<g ref="char:EOLhyphen"/>tesse de Athell.</hi>
+                     </p>
+                     <p>Upon the Parliament Roll <hi>Anno</hi> 14. <hi>vel</hi> 15 <hi>E.</hi> 3. there are divers Writs directed to sundry Earls and Barons <hi>De veniendo Ad Regem,</hi> whereof the first is directed to <hi>William</hi> Earl of <hi>Southampton</hi> to attend the King with 120 men at Arms, <hi>William de Clinton</hi> Earl of <hi>Huntington</hi> with 60 men at Arms, <hi>Lawrence de Hastings</hi> Earl of <hi>Pem<g ref="char:EOLhyphen"/>brook</hi> with 50 men at Arms, and so likewise there were divers directed to others, and these several kind of Summons, because I find them recorded amongst the Parliament Rolls; I thought good to remember them to you, I will conclude upon the Etymo<g ref="char:EOLhyphen"/>logy of the word which is Parliament, which is to speak, and deliver mans a mind freely in that Assembly. Wherefore the boldest Speech that ever I did read of to be spoken of in the Kings presence, was spoken by <hi>Roger Bigod</hi> Earl Marshal of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> unto King <hi>Edward</hi> the First in the Par<g ref="char:EOLhyphen"/>liament
+<pb n="49" facs="tcp:41640:24"/>House at <hi>Salisbury,</hi> where the King would have him to go into <hi>Gascoine</hi> for him with an Army; but when the Earl excused himself, saying, he would be ready to go if the King went himself.</p>
+                     <p>The King then in a great chase said by God Sir Earl thou shalt go or hang, and I (said the Earl) swear the same Oath that I will neither go nor hang: And so depar<g ref="char:EOLhyphen"/>ted from the King without taking leave.</p>
+                     <closer>
+                        <signed>Joseph Holland.</signed>
+                     </closer>
+                  </div>
+                  <div type="part">
+                     <pb n="50" facs="tcp:41640:25"/>
+                     <head>The Antiquity of Parliaments.</head>
+                     <byline>Cotton.</byline>
+                     <p>The two Sinews of the Common<g ref="char:EOLhyphen"/>wealth,
+<list>
+                           <item>Punishment,</item>
+                           <item>And Reward.</item>
+                        </list>
+                     </p>
+                     <p>AS touching the nature of the High Court of Parliament, it is nothing else but the Kings great Council, which he doth assemble together upon occasion of interpreting or abrogating of old Laws, and making of new, as all manners shall deserve; or for punishment of evil doers, or for reward of the vertuous; wherein these four things are to be considered.</p>
+                     <list>
+                        <item>1. Whereof the Court is composed.</item>
+                        <item>2. What matters are proper for it.</item>
+                        <item>3. To what end it is Ordained.</item>
+                        <item>4. What is the means to bring the end to pass.</item>
+                     </list>
+                     <p n="1">1. As for the thing it self it is composed
+<pb n="51" facs="tcp:41640:25"/>of a Head and a Body: The Head is in the King, the Body are the members of the Parliament. This Body again is sub<g ref="char:EOLhyphen"/>divided in two parts: The Upper and the Lower House.</p>
+                     <p>The Upper House is divided partly of the Nobility Temporal, who are Here<g ref="char:EOLhyphen"/>ditary Counsellors to the High Court of Parliament, by the Honour of their Crea<g ref="char:EOLhyphen"/>tion and Lands; and partly of the Bishops, Spiritual men, who are likewise by vertue of their dignity, <hi>Et ad vitam,</hi> of this Court. The other House is composed of Knights of the Shires, and Burgesses for the Towns.</p>
+                     <p>But because the number would be infi<g ref="char:EOLhyphen"/>nite, for all the Knights, Gentlemen and Burgesses, to be present at every Parlia<g ref="char:EOLhyphen"/>ment, therefore a certain number is select<g ref="char:EOLhyphen"/>ed out of that great Body, serving for that great Parliament where their persons be the representations of that great Body.</p>
+                     <p n="2">2. For the matters whereof they ought to treat, they ought therefore to be gene<g ref="char:EOLhyphen"/>ral; and rather of such matters as cannot well be performed without the assembling of that general Body; and no more of the generals neither than necessarily shall-be required; for as in <hi>Corruptissima Rei Publi<g ref="char:EOLhyphen"/>ca
+<pb n="52" facs="tcp:41640:26"/>plurimae sunt Leges;</hi> so doth the life and strength of the Law consist not in heaping of infinite and confused numbers of Laws, but in the right interpretation, and due execution of good and wholesome Laws.</p>
+                     <p n="3">3. The end for which the Parliament is ordained being only for the advancement Gods glory, and Establishment of the weal of the King and his people; It is no place for particular men to utter their pri<g ref="char:EOLhyphen"/>vate conceipts for satisfaction of their cu<g ref="char:EOLhyphen"/>riosities, or to make shew of their eloquence by spending the time with long studied, and eloquent orations, for the Reverence of God, their King, and to give their best advise for the furtherence of his service, and flourishing weal of this Estate.</p>
+                     <p n="4">4. And lastly to consider the means how to bring all your Labours to a good end, you must remember that you are assem<g ref="char:EOLhyphen"/>bled by your lawful King to give him your best advice in matters proposed by him un<g ref="char:EOLhyphen"/>to you, being of so high a nature as before said wherein you are gravely to deliberate, and upon your consciences plainly to de<g ref="char:EOLhyphen"/>termine how far those things propounded do agree with the weal of your King and the Country, whose weals cannot be separated.</p>
+                     <p>But of the form of holding, see Sir <hi>Tho. Smiths</hi> Book Cap. 3. Fol. 47.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="53" facs="tcp:41640:26"/>
+                     <head>Descriptions and Occurrences of the Parliament.</head>
+                     <byline>Selden.</byline>
+                     <p>THat we now agreeing with the <hi>Sects,</hi> do name a Parliament; the <hi>Frenchmen</hi> do call it <hi>le Estates ou le assemble del Estates,</hi> because with them there (as with us also) the King, Nobility and Commons do meet thereat to consult. And the same in <hi>Ger<g ref="char:EOLhyphen"/>many</hi> is termed a <hi>Diet;</hi> for those other Courts that carry the name of Parliaments be but ordinary Courts of Justice, which as <hi>Paulius Jovius</hi> Writeth, are thought to have been planted by us, and of which our own Councels established in <hi>Wales,</hi> and in the <hi>North</hi> parts do bear the nearest shew and resemblance.</p>
+                     <p>This word Parliament saith one is com<g ref="char:EOLhyphen"/>pounded of <hi>Parium &amp; lamentum</hi> because (as he thinketh) the Peers of the Coun<g ref="char:EOLhyphen"/>try did at those meetings lament and com<g ref="char:EOLhyphen"/>plain
+<pb n="54" facs="tcp:41640:27"/>each to other of Country grievan<g ref="char:EOLhyphen"/>ces, and thereupon provided redress for the same.</p>
+                     <p>But their opinion's more proboble (as I think) who drew <hi>Parliamentum</hi> from the <hi>French</hi> word <hi>Parler.</hi> And that also from the <hi>Greek</hi>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, both signifying to speak, and so adjudge the determination (ment) which is common in the <hi>French</hi> Tongue as well to main <hi>Nouns</hi> as <hi>Adverbs</hi> do make up a Parliament, meaning thereby an as<g ref="char:EOLhyphen"/>sembly of men called together to speak and conferr of their advices or opinions.</p>
+                     <p>And also it may not unfitly be called Parliament, for that each man there doth, or should speak his mind.</p>
+                     <p>But <hi>Lawrentius Ville</hi> misliketh that man<g ref="char:EOLhyphen"/>ner of Etymology, I will not take upon me to set down the very time in which the the word Parliament came first in use.</p>
+                     <p>But forasmuch as it was transported out of <hi>France,</hi> it is not improbable to guess that it began here shortly after the time of the <hi>Norman</hi> Conquest, and of the first Au<g ref="char:EOLhyphen"/>thentical reports of that name Parliament that I have found in the Statute made 3 <hi>E.</hi> 1. and commonly called <hi>Westminster</hi> 1. where that assembly is said to be <hi>Primer Parliament general a pres corone<g ref="char:EOLhyphen"/>ment
+<pb n="55" facs="tcp:41640:27"/>le Roy;</hi> But yet that is not the very first use of the word, for in the Statute called <hi>Articuli Celeri</hi> published 9 E. 2. these words are read amongst others, <hi>Tempori<g ref="char:EOLhyphen"/>bus Primo genitorum &amp; quondam,</hi> must needs reach higher than to <hi>Edward</hi> the First that that was but Father to him that spake it. So that I can willingly therein subscribe to the opinion of <hi>Pollidore Virgill,</hi> who in the XI. Book of his <hi>English</hi> History which con<g ref="char:EOLhyphen"/>taineth the Reign of <hi>H.</hi> 1. that was Son to the Conqueror, Writing of the great Assembly at <hi>Salisbury</hi> saith thus, <hi>Ad illud opposite habeo dicere Reges ante haec tempora non consuevisse populi conventum consultandi causa nici perraro facere adeo ut ab Henrico id institutem vire mannasse dici possit, &amp;c.</hi>
+                     </p>
+                     <p>And a little after <hi>Gallico Vulgo Parlia<g ref="char:EOLhyphen"/>mentum appellant, &amp;c.</hi> And this by so much the more credible, as that King laboured by all means, and especially by restitution of the Ancient Laws (as all Historians do agree) to heal the hurts of the <hi>Englishmen,</hi> which were before deeply wounded by the oppression of his Father, and his Bro<g ref="char:EOLhyphen"/>ther <hi>William,</hi> to the end that he might thereby the better keep the Crown of this Realm against his Elder Brother <hi>Robert,</hi> who both had good right, and made his claim thereto.</p>
+                     <pb n="56" facs="tcp:41640:28"/>
+                     <p> But what time soever after the conquest this Court began to be called by the name of Parliament yet, is it certain that the same was free known to the <hi>Saxons,</hi> and <hi>Eng<g ref="char:EOLhyphen"/>lishmen,</hi> sometimes by the word of <hi>Sinoth,</hi> and <hi>Gemot,</hi> and <hi>Micell, Witena, ala Witena,</hi> and <hi>Lemote,</hi> and <hi>Halimote,</hi> that is to say, Assembly, or the meeting of the Wisemen of a Shire of the men of the Town, and of the Tenents of a Hall or Mannor had there beginning also. And as <hi>Sinod</hi> is more used in the Acts of Parliaments themselves, so <hi>Gemote</hi> is more familiar to the Histories.</p>
+                     <p>Thus much of the Ancient usual name, now let us look to the thing it self, like as in War, when the King is present, and with him the Nobility, Gentry, Yeoman<g ref="char:EOLhyphen"/>ry, there is the force, and puissance of the Realm, even so in peace; where<g ref="char:EOLhyphen"/>soever the Prince is (as the head) to give life, that is to yeild the last, and highest assent, and where the Barony consisting of the Lords Spiritual and Temporal, and Commonalty, made up of the Knights, and Burgesses (be as the Body) present at his commandment to deliberate, confer and consent.</p>
+                     <p>There is also the Council and Pollicy of the Realm, so that for as much as eve<g ref="char:EOLhyphen"/>ry
+<pb n="57" facs="tcp:41640:28"/>man from the highest to the lowest, is there by person, or by procuration, there<g ref="char:EOLhyphen"/>fore of right reason every man is said to be found by that which doth pass from such an Assembly.</p>
+                     <p>And this form of Policy is both Natural and Armonical, Natural in that it hath an Imitation of the natural Body, of a man (truly called the little world) out of the three Cells, whereof namely the Head, Breast, and Body, the whole three parts of the Soul do open, and utter themselves, and Harmonical because so well tuned a Bass, Mean and Treble, there proceed<g ref="char:EOLhyphen"/>eth a most exquisite consent, and delicious harmony.</p>
+                     <p>The beginning of which manner of con<g ref="char:EOLhyphen"/>sultation, and namely with us of this Realm, if not how can I derive it from any other time, than from that which the <hi>German</hi> and <hi>English</hi> Nation did set their first Foot in this Land to invade it.</p>
+                     <p>For <hi>Cornelius Tacitus</hi> Writing of the manner of the Ancient <hi>Germans</hi> saith thus, <hi>Nec Regibus infinita potestas de minoribus rebus Principes consultant omnes,</hi> neither did they together with the change of the Soil make change of this their wonted manner of deliberation, for it is yet extant in mo<g ref="char:EOLhyphen"/>numents
+<pb n="58" facs="tcp:41640:29"/>left behind them, that after their coming hither they frequented the same order in Councelling which they had used in their own Country before, for proof hereof I might call <hi>Beda</hi> the <hi>Saxon</hi> Histo<g ref="char:EOLhyphen"/>riographer to witness, who reporting how the Christian Faith took root by little a<g ref="char:EOLhyphen"/>mongst themselves in their particular Kingdoms in this Land, Writeth, that King <hi>Edwin</hi> of <hi>Northumberland</hi> would not embrace the Preaching of the Gospel, be<g ref="char:EOLhyphen"/>fore he had commended and consulted with his Freinds, his Nobility, and his Wisemen. And so I end.</p>
+                     <trailer>FINIS.</trailer>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:41640:2"/>
+                  <p>THE METHOD OF Passing BILLS IN PARLIAMENT.</p>
+                  <p>Written by <hi>Henry Elsinge,</hi> Cler. Par.</p>
+                  <p>Now Printed from the Original Ma<g ref="char:EOLhyphen"/>nuscript under these Heads, <hi>viz.</hi>
+                     <list>
+                        <item>
+                           <hi>1.</hi> Proceedings upon Bills.</item>
+                        <item>
+                           <hi>2.</hi> The Commitment of Bills.</item>
+                        <item>
+                           <hi>3.</hi> Manner how Committees are named.</item>
+                        <item>
+                           <hi>4.</hi> Who may not be of a Committee, and who ought to be.</item>
+                        <item>
+                           <hi>5.</hi> Council heard at the Committee.</item>
+                        <item>
+                           <hi>6.</hi> A Bill Recommitted.</item>
+                        <item>
+                           <hi>7.</hi> The Third Reading.</item>
+                        <item>
+                           <hi>8. Nova Billa.</hi>
+                        </item>
+                        <item>
+                           <hi>9.</hi> Amendments and Additions, or Proviso's added afterwards, how Lawful.</item>
+                        <item>
+                           <hi>10.</hi> Amendments of Amendments how Lawful.</item>
+                        <item>
+                           <hi>11.</hi> A Provisoe added after a third Reading, not Usual.</item>
+                        <item>
+                           <hi>12.</hi> A Proviso added by the one House, and desired be taken away by the other House, whether Lawful.</item>
+                     </list>
+                  </p>
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>F. L.</hi> for <hi>Matt. Gilliflower,</hi> at the <hi>Spread Eagle and Crown</hi> in <hi>Westminster-Hall.</hi> 1685.</p>
+               </div>
+            </front>
+            <body>
+               <div type="treatise">
+                  <pb facs="tcp:41640:29"/>
+                  <div type="part">
+                     <head>Proceedings upon Bills.</head>
+                     <head>The first Reading.</head>
+                     <p>THe Clerk reads the Bill stand<g ref="char:EOLhyphen"/>ing at the Table, and then de<g ref="char:EOLhyphen"/>livers the same kneeling unto the Lord Chancellor, together with a Brief of the Bill.</p>
+                     <p>The Lord Chancellor reads the Ti<g ref="char:EOLhyphen"/>tle of the Bill, and then reports the effect of the same out of the Brief, and concludes, This is the first time of the reading of this Bill.</p>
+                     <p>At the first Reading, the Bill is sel<g ref="char:EOLhyphen"/>dom now spoken against.</p>
+                     <p>There are presidents to the contra<g ref="char:EOLhyphen"/>ry, <hi>prout A.</hi> 1 <hi>H.</hi> 8.11 <hi>de Parlia<g ref="char:EOLhyphen"/>menti-Billa de actionibus</hi> (brought from the Commons) <hi>lecta</hi> 1. <hi>vice &amp;
+<pb facs="tcp:41640:30"/>Domini disputando censerunt reforman<g ref="char:EOLhyphen"/>dum; quod regia Majestas haberet</hi> 3. <hi>vel</hi> 4. <hi>annos pars vero contra partem, nisi unum annum.</hi>
+                     </p>
+                     <p>And a Bill hath been received at the first Reading <hi>prout.</hi>
+                     </p>
+                     <p>
+                        <hi>Anno</hi> 3 <hi>E.</hi> 6.14 <hi>No. Billa pro Jurisdi<g ref="char:EOLhyphen"/>ctione Episcoporum</hi> rejected, and a Com<g ref="char:EOLhyphen"/>mittee appointed to draw a new Bill.</p>
+                     <p>The Subsidy Bill and the Kings ge<g ref="char:EOLhyphen"/>neral Pardon, were used to be Read but once, and so were expedited at the first Reading.</p>
+                     <p>Yet if a Proviso be added to the Subsidy Bill, that hath been read three times <hi>prout.</hi>
+                     </p>
+                     <p>So if a Proviso be added to the ge<g ref="char:EOLhyphen"/>neral Pardon, that is to be read three times, <hi>V.</hi> 3 <hi>E.</hi> 6. 1 <hi>Febr.</hi>
+                     </p>
+                     <p>
+                        <hi>Anno</hi> 35 <hi>H.</hi> 8.4 <hi>die Martii</hi> 1. <hi>Vice lecta est Billa,</hi> concerning the Kings Majesties Award between the Lord <hi>Dacres,</hi> and the Heirs general of Sir <hi>James Strangwish</hi> the younger, <hi>cui qui<g ref="char:EOLhyphen"/>dem Billae Proceres assenssrunt.</hi>
+                     </p>
+                     <pb facs="tcp:41640:30"/>
+                     <p> Bills also have been committed at the first Reading.</p>
+                     <p>
+                        <hi>Anno</hi> 6 <hi>H.</hi> 8.14 <hi>Febr. recepta est Billa in papiro concernens apparatum &amp; lecta, est jam primo, &amp; deliberata Ma<g ref="char:EOLhyphen"/>gistro Pigott reformanda.</hi>
+                     </p>
+                     <p>
+                        <hi>Anno</hi> 1 <hi>E</hi> 6.21 <hi>Nov. allata est a communi Domo Billa,</hi> for Benefices, common Preachers, and Residence. <hi>Quae</hi> 1. <hi>vice lecta est, &amp; commissa est Archiepiscopo Cant. Episcopis Elien. Du<g ref="char:EOLhyphen"/>nelm. Roffen. &amp; Lincoln. Marchioni Northampton. Domino St. John Comiti Arundel Domino Admiral, &amp; Domino Wentwoorth.</hi>
+                     </p>
+                     <p>
+                        <hi>Anno</hi> 5 <hi>E</hi> 6.16 <hi>Febr. Hodie</hi> 1. <hi>vice lecta est Billa,</hi> to avoid regrating, fore<g ref="char:EOLhyphen"/>stalling, <hi>&amp;c. &amp; commissa Magistro Hales, Magistro Molineux, Magistro Saunders, &amp; Solicitatori Regis.</hi>
+                     </p>
+                     <p>And there are very many Presi<g ref="char:EOLhyphen"/>dents, that Bills have been commit<g ref="char:EOLhyphen"/>ted at the first Reading, in the times of <hi>H.</hi> 8. and <hi>E.</hi> 6. as may appear by the Committees of those times.</p>
+                     <pb facs="tcp:41640:31"/>
+                     <p> The like Presidents I find in most of the Journals of Queen <hi>Elizabeth, prout, &amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>Anno</hi> 8 <hi>Eliz.</hi> 3 <hi>Oct. Billa</hi> for the bet<g ref="char:EOLhyphen"/>ter executing of certain Statutes, <hi>&amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>Eodem Anno</hi> 5 <hi>Octobr.</hi> touching Fines and Recoveries, <hi>&amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>Anno</hi> 13 <hi>Eliz.</hi> 20 <hi>April.</hi> against frau<g ref="char:EOLhyphen"/>dulent Conveyances, <hi>&amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>Anno</hi> 14 <hi>Eliz.</hi> 12 <hi>May,</hi> for preser<g ref="char:EOLhyphen"/>vation of Wood, <hi>&amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>Eodem Anno &amp; Die,</hi> for the punish<g ref="char:EOLhyphen"/>ment of Vagabonds, <hi>&amp;c.</hi>
+                     </p>
+                     <p>And so in many other Parliaments of <hi>Eliz. &amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>The Second Reading.</hi>
+                     </p>
+                     <p>In the same manner the Clerk reads the Bill the second time, and delivers the same without a Brief to the Lord Chancellor.</p>
+                     <p>His Lordship recites the Title there<g ref="char:EOLhyphen"/>of only, and saith, This is the second Reading.</p>
+                     <p>Then if no man speaks against the Bill, it is ordered to be engrossed, if
+<pb n="5" facs="tcp:41640:31"/>begun with the Lords; or to have a third Reading, if brought from the Commons.</p>
+                     <p>If any doubt be conceived, which is often <hi>pro forma tantum,</hi> the Bill is committed.</p>
+                     <p>
+                        <hi>V. inter ordines &amp;c. An.</hi> 18. <hi>Jacobi.</hi>
+                     </p>
+                     <p>Bills are commonly let pass at the first Reading, and committed at the second.</p>
+                     <p>Yet it appears by many Presidents of <hi>H.</hi> 8. <hi>E.</hi> 6. and Q. <hi>Eliz.</hi> that if the Lords did apprehend any dislike or doubt in the Bill at the first Reading, it was then committed immediately, <hi>prout antea.</hi>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <pb n="6" facs="tcp:41640:32"/>
+                     <head>The Commitment of Bills.</head>
+                     <p>AT the second Reading, if the Bill be required to be committed, the Lord Chancellor demands of the Lords how many of each Bench shall be of the Committee.</p>
+                     <p>Which being agreed on to 3, 5, or 6, <hi>&amp;c.</hi> the Earls are first named, then the Bishops, then the Barons.</p>
+                     <p>The like Order is observed in the naming of Committees for any other business.</p>
+                     <p>And if there be five Earls, then five Bishops, and ten Barons; the reason whereof I know not. <hi>Neque fuit sic a principio.</hi>
+                     </p>
+                     <p>
+                        <hi>Anno</hi> 3 <hi>E.</hi> 6.14 <hi>No.</hi> the Committees to frame a Bill for the Jurisdiction of Bishops, were the Marquess <hi>Dorset,</hi> 4 Bishops, and 2 Barons.</p>
+                     <p>
+                        <hi>Eodem Anno</hi> 2 <hi>Januarii,</hi> the Com<g ref="char:EOLhyphen"/>mittee sent to the Duke of <hi>Somerset</hi> were, 1 Earl, 5 Bishops and 2 Barons.</p>
+                     <pb n="7" facs="tcp:41640:32"/>
+                     <p>
+                        <hi>Anno</hi> 27 <hi>Eliz.</hi> 4 <hi>Decembr.</hi> the Bill for the Clothiers of <hi>Boxsted, &amp;c.</hi> was committed unto 3 Earls, 1 Viscount, 1 Bishop, and 3 Barons.</p>
+                     <p>
+                        <hi>Eodem Anno</hi> 3 <hi>Dec.</hi> the Bill for the landing of Merchandize, <hi>&amp;c.</hi> was committed unto 8 Earls, 2 Bishops, and 4 Barons.</p>
+                     <p>
+                        <hi>Eodem Anno</hi> 27 <hi>Eliz.</hi> the first Bill for encrease of Mariners, was com<g ref="char:EOLhyphen"/>mitted unto 2 Earls, and 6 Barons, and no Bishops.</p>
+                     <p>
+                        <hi>Eodem Anno &amp; Die,</hi> the Bill for the Sabbath day, is committed unto 6 Earles, 1 Viscount, 5 Bishops and 7 Barons.</p>
+                     <p>The Presidents hereof are infinite, that no such order was observed to name a set number of each Bench, or to double the number of Barons until in the latter Parliaments of our late King <hi>James:</hi> Neither was this con<g ref="char:EOLhyphen"/>stantly observed until the Parliament of 12 <hi>Jacobi Regis,</hi> and afterwards. For in the Fourth Session of the Par<g ref="char:EOLhyphen"/>liament,
+<pb n="8" facs="tcp:41640:33"/>
+                        <hi>Anno</hi> 1 <hi>Jacobi Regis,</hi> some<g ref="char:EOLhyphen"/>times the number of each is equal, and sometimes the Barons are the greater number. But they seldom double the number of the other Bench, unless in the Committees of a small number.</p>
+                     <p>But here may be a question <hi>(viz.)</hi> Whether a Bill may be committed by the orders of the House, if no Lord move any doubt, or imperfection in the same.</p>
+                     <p>And I am of opinion that it may not, neither is it necessary.</p>
+                     <p>My reason is, for that I find many Bills to pass without commitment, and some at the second Reading in the times of <hi>H.</hi> 8. <hi>E.</hi> 6. and Queen <hi>Elizabeth.</hi>
+                     </p>
+                     <p>But now the constant order is to Read every Bill (save the Pardon) 3 times.</p>
+                     <p>And the general Voice to commit the Bill at the 2 Reading, shews that the Lords do conceive some doubt therof, though none move any.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="9" facs="tcp:41640:33"/>
+                     <head>The manner how Committees are named.</head>
+                     <p>THe number of each Bench be<g ref="char:EOLhyphen"/>ing agreed, they are named <hi>pro<g ref="char:EOLhyphen"/>miscue,</hi> by any of the Lords, but the Clerk is to be careful to set down those whom he hears first named: which is done in this manner.</p>
+                     <p>First the Earls are named and those that sit on that Bench.</p>
+                     <p>The Clerk having written them stands up and Reads their names.</p>
+                     <p>Then the Bishops, then the Barons in like manner.</p>
+                     <p>And if the Clerk happen to set<g ref="char:EOLhyphen"/>down more than the number agreed on; it is in the Liberty of the House to take out the latter, and so to leave the just number, or to admit them.</p>
+                     <p>Then the House names the atten<g ref="char:EOLhyphen"/>dants which are of the Judges, the Kings learned Council, and the Ma<g ref="char:EOLhyphen"/>sters of the Chancery.</p>
+                     <pb n="10" facs="tcp:41640:34"/>
+                     <p> The Clerk Reads their names also.</p>
+                     <p>The last is the time and place where to meet, which being agreed on, and set down, the Clerk reads that also.</p>
+                  </div>
+                  <div type="part">
+                     <head>VVho may not be Commit<g ref="char:EOLhyphen"/>tees, and who ought to be.</head>
+                     <p>IF any Lord speak against the Body of the Bill, he is not to be named of the Committee of the same Bill.</p>
+                     <p>No absent Lord is to be of any Committee, unless Officers of State, when the Bill or Business concerns their Office. And then they are to be named, and to have notice sent them thereof.</p>
+                     <p>
+                        <hi>V. Anno</hi> 1 <hi>Jac.</hi> 14 <hi>Junii,</hi> Subsidy of Tonnage and Poundage.</p>
+                     <p>That Lord which moveth any doubt concerning the Bill, ought also to be named, and to be of the Com<g ref="char:EOLhyphen"/>mittee, if he be present.</p>
+                     <p>This is also a received opinion, and often in practice; and the Clerk ought
+<pb n="11" facs="tcp:41640:34"/>to be attentive, and hearken after the names of such Lords.</p>
+                     <p>The number of the Committees be<g ref="char:EOLhyphen"/>ing agreed on, named and Read, the Clerk delivers the Bill with a note of the Committee affixed, unto the first of the Committee then present.</p>
+                     <p>The Committees being met, though not all, yet if the better half, they may proceed.</p>
+                     <p>
+                        <hi>Anno</hi> 18. <hi>&amp;</hi> 19. <hi>Jac.</hi> 30. <hi>No.</hi> It is or<g ref="char:EOLhyphen"/>dered that that if 10 or upwards of a<g ref="char:EOLhyphen"/>ny Committee do meet (though not the one half of their number) they may proceed notwithstanding.</p>
+                     <p>At the Committee the Judges and and other Attendants do neither sit, nor are covered unless it be out of favour, and then they sit behind, but are never covered.</p>
+                     <p>One of the attendants Reads the Bill and writes the amendments (if a<g ref="char:EOLhyphen"/>ny) in Paper, with directions to the places to be amended.</p>
+                     <p>And if any addition or Proviso be conceived, he writes the same in Paper
+<pb n="12" facs="tcp:41640:35"/>also with directions where they are to be placed.</p>
+                     <p>Any other Member of the House may be present at this Committee, but they may not Vote: And must give place to all of the Committee, and sit below them.</p>
+                     <p>If the Business be not dispatched at the first meeting, the Committees themselves may appoint another day.</p>
+                     <p>
+                        <hi>V. An.</hi> 4 <hi>Jac.</hi> 26 <hi>Febr.</hi>
+                     </p>
+                     <p>But this must be done before their departure.</p>
+                  </div>
+                  <div type="part">
+                     <head>Council heard at the Com<g ref="char:EOLhyphen"/>mittee.</head>
+                     <p>AT this Committee, if it be a pri<g ref="char:EOLhyphen"/>vate Bill, they will not only call both parties before them, but hear their Council.</p>
+                     <p>Wherein this order is observed, that the Council who speaks against the Bill is heard first, for it is already un<g ref="char:EOLhyphen"/>derstood what the Bill desires.</p>
+                     <pb n="13" facs="tcp:41640:35"/>
+                     <p> And either part may desire to have their Council heard in the House, which being reported by the Com<g ref="char:EOLhyphen"/>mittee, is so ordered.</p>
+                     <p>There also the Council against the Bill speaks first.</p>
+                     <p>And for publique Bills Council is al<g ref="char:EOLhyphen"/>so heard, if any oppose it.</p>
+                     <p>And if a publique Bill concern any Officer, Corporation, or particular Person, or any Artificers, they are usu<g ref="char:EOLhyphen"/>ally sent for to attend the Committee.</p>
+                  </div>
+                  <div type="part">
+                     <head>The Bill reported by a Com<g ref="char:EOLhyphen"/>mittee to the House.</head>
+                     <p>THe Committee, or greater part being agreed what report to make to the House,</p>
+                     <p>The first of the Committees that was present, makes report thereof stand<g ref="char:EOLhyphen"/>ing and uncovered with the Bill in his hand.</p>
+                     <p>And all the rest of that Committee (then present) stand up and are un<g ref="char:EOLhyphen"/>covered,
+<pb n="14" facs="tcp:41640:36"/>whereby they signifie their assent unto the said report.</p>
+                     <p>The report being ended, he delivers the Bill and the amendments, addition and Proviso, (if any) unto the Clerk, who goes from his seat, and receives the same from his Lordship.</p>
+                     <p>If the report be for the Bill to sleep it is so ordered and entred by the Clerk in the Journal Book, and endorsed on the Bill also.</p>
+                     <p>If Amendments, Additions, or Pro<g ref="char:EOLhyphen"/>viso's be reported (when the House orders the same to be read) they are Read on this manner by the Clerk, <hi>(viz.)</hi> The amendments of the Bill <hi>&amp;c.</hi> (reciting the Title thereof, or the Additions or Priviso's to be added to the Bill, <hi>&amp;c.</hi> And so Reads the same as they are in the Paper delivered by the Committee.</p>
+                     <p>Then the Clerk delivers the same kneeling unto the Lord Chancellor, ha<g ref="char:EOLhyphen"/>ving first endorsed on the amendments <hi>&amp;c.</hi> 1. <hi>Vice lecta.</hi>
+                     </p>
+                     <pb n="15" facs="tcp:41640:36"/>
+                     <p> His Lordship first Reads the Title of the Bill. Then that the same is re<g ref="char:EOLhyphen"/>turned by the Committees amended thus <hi>(viz.)</hi> In such a line between such a word, and such a word insert these words, <hi>&amp;c.</hi>
+                     </p>
+                     <p>Or in such a line put out this words, <hi>&amp;c.</hi> and saith further, before it was thus, and now it is thus.</p>
+                     <p>If additions and Proviso's are only reported, and no amendments, then his Lordship, first recites the Title of the Bill, then that it was committed and returned with such or such Additions, or Provisoes, and so repeats the effect thereof briefly.</p>
+                     <p>This being done, the Lord Chancel<g ref="char:EOLhyphen"/>lor demands whether their Lordships be pleased that their amendments, <hi>&amp;c.</hi> shall receive a second Reading, and if so agreed on,</p>
+                     <p>The Clerk receives the Bill with the amendments, <hi>&amp;c.</hi> of his Lordship and Reads the same again, and endor<g ref="char:EOLhyphen"/>seth on the amendments, <hi>&amp;c.</hi> 2. <hi>Vice lecta, &amp;c.</hi>
+                     </p>
+                     <pb n="16" facs="tcp:41640:37"/>
+                     <p> And kneeling delivers the same un<g ref="char:EOLhyphen"/>to the Lord Chancellor again.</p>
+                     <p>His Lordship Reads the same thus.</p>
+                     <p>First recites the Title of the Bill, then that it hath been committed and returned with amendments, <hi>&amp;c.</hi> the which amendments have been twice Read. And demands their Lordships pleasure (if the Bill began above) whether the Bill shall be engrossed with the said amendments, <hi>&amp;c.</hi> or no: And if answer be made affirmitively and no Lord speaks against it: Then it is so ordered to be done; and the Clerk re<g ref="char:EOLhyphen"/>ceives the Bill again, and endorseth on the said amendment to be engrossed; if the Bill be sent from the Commons, then the Lord Chancellor demands their Lordships pleasure whether the said Bill, and amendments, <hi>&amp;c.</hi> shall be Read the third time or no.</p>
+                     <p>At the second Reading any of the Committee may speak against the Bo<g ref="char:EOLhyphen"/>dy of the Bill, or against the amend<g ref="char:EOLhyphen"/>ments, <hi>&amp;c.</hi> before they be engrossed.
+<pb n="17" facs="tcp:41640:37"/>
+                        <hi>V. An.</hi> 39. <hi>Eliz.</hi> 24 <hi>Jan.</hi> This was de<g ref="char:EOLunhyphen"/>bated, but not then determined. But <hi>An.</hi> 43 <hi>Eliz.</hi> 12 <hi>No.</hi> it was resolved by the House.</p>
+                  </div>
+                  <div type="part">
+                     <head>Recommitted.</head>
+                     <p>THe Bill being thus reported by the Committee: if any doubt be moved, and the House think good then (before the amendments be orde<g ref="char:EOLhyphen"/>red to be ingrossed) or ordered to have a third Reading, the same may be re<g ref="char:EOLhyphen"/>committed, either to the former Com<g ref="char:EOLhyphen"/>mittees only, or to the same and others.</p>
+                     <p>If the Committee find the Bill so imperfect, that it can hardly be a<g ref="char:EOLhyphen"/>mended,</p>
+                     <p>Then they may without further or<g ref="char:EOLhyphen"/>der from the House, frame a new Bill.</p>
+                     <p>Which is most commonly done by one of the Attendants.</p>
+                     <p>This new Bill being agreed on and returned with the old Bill to the House, and the cause thereof reported by the Committee, the old Bill sleeps.</p>
+                     <pb n="18" facs="tcp:41640:38"/>
+                     <p> And the Lord Chancellor demands of the Lords whether they be pleased that the new Bill shall be Read or no, which is done accordingly.</p>
+                     <p>If any doubt be conceived of the new Bill, the same may also be com<g ref="char:EOLhyphen"/>mitted as the former was recommitted.</p>
+                     <p>Or (after the second Reading) the House may order a third Bill to be framed. <hi>V. An.</hi> 1 <hi>Jacobi</hi> 4 <hi>Junii.</hi> Recu<g ref="char:EOLhyphen"/>sants: But after the third Reading this is not now done.</p>
+                  </div>
+                  <div type="part">
+                     <head>The third reading.</head>
+                     <p>THe Clerk first Reads the Title, and then Reads the Bill, and de<g ref="char:EOLhyphen"/>livers the same to the Lord Chancellor in manner as before having first indor<g ref="char:EOLhyphen"/>sed 3 <hi>An. V. lecta.</hi>
+                     </p>
+                     <p>His Lordship repeats the Title on<g ref="char:EOLhyphen"/>ly and says, this is the Third Reading of this Bill.</p>
+                     <p>If no Lord speak against it, then his Lordship demands, whether he shall
+<pb n="19" facs="tcp:41640:38"/>put it to the Question which being a<g ref="char:EOLhyphen"/>greed on, or not denied.</p>
+                     <p>The Question is thus.</p>
+                     <p>Such of your Lordships as are of o<g ref="char:EOLhyphen"/>pinion, that this Bill is fit to pass (or shall pass, say content.</p>
+                     <p>They which are of another opinion say not content.</p>
+                     <p>Then the lowest Baron begins and saith content, or not content, without any more words. And so they pro<g ref="char:EOLhyphen"/>ceed in order to the first Baron.</p>
+                     <p>Then the Bishops.</p>
+                     <p>Then the Viscounts, and Earls, and those that sit on the Earls Bench in like manner.</p>
+                     <p>The Lord Chancellor, or Lord Keeper (if he be a Baron, Earl, or Bi<g ref="char:EOLhyphen"/>shop,) removes to the first place on the Earls Bench, and giveth his voice Content, or not content.</p>
+                     <p>The Prince (if present) speaks last, if any doubt be of the most voice then one Lord who said content, and ano<g ref="char:EOLhyphen"/>ther Lord who said not content
+<pb n="20" facs="tcp:41640:39"/>are appointed to number them by the Poll, which they do in this manner.</p>
+                     <p>They go together to the Barons Bench, and every Lord who said Con<g ref="char:EOLhyphen"/>tent, stands up. Then the Bishops and Earls Bench in like manner.</p>
+                     <p>Then they return again to the Ba<g ref="char:EOLhyphen"/>rons Bench, and every Lord who said not content standeth up; and so of the Bishops and Earls.</p>
+                     <p>And according to the relation it is agreed whether content, or not con<g ref="char:EOLhyphen"/>tent, had the more voices.</p>
+                     <p>And the Bill doth pass or is reject<g ref="char:EOLhyphen"/>ed accordingly.</p>
+                     <p>This Order is observed in all Questi<g ref="char:EOLhyphen"/>ons.</p>
+                     <p>Upon examining of the Votes the Proxies of the absent Lords may be de<g ref="char:EOLhyphen"/>manded, and such Lords as gave their own Vote with the Question may give his proxies against it, <hi>Prout.</hi>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <pb n="21" facs="tcp:41640:39"/>
+                     <head>Nova Billa.</head>
+                     <p>IF the Bill began below be commit<g ref="char:EOLhyphen"/>ted, and a new Bill brought in by the Committee,</p>
+                     <p>When the same is past by the Lords, it is to be returned to the Commons together with the Old.</p>
+                     <p>Hereof are may Presidents, <hi>tempori<g ref="char:EOLhyphen"/>bus H.</hi> 8. <hi>E.</hi> 6. <hi>Eliz.</hi> And one 4 <hi>Jac.</hi> 27 <hi>May pro Comite Darby.</hi>
+                     </p>
+                     <p>So likewise the Commons are to do if they make a new Bill.</p>
+                     <p>ut if the Commons send up a new Bill, and the Lords Reads the same and reject it, the Commons cannot send up another Bill of the same Argument in the same Session: <hi>V. An.</hi> 3 <hi>Jacobi</hi> 27 <hi>May,</hi> Purveyors.</p>
+                     <p>If the Lords pass a Bill, and send it to the Commons, and they reject the same without conference with the Lords, they cannot send up a new Bill of of the same Argument (in the same Session) <hi>V. An.</hi> 29 <hi>Eliz.</hi> 22 <hi>Martii, Handfords</hi> Bill. But note this new
+<pb n="22" facs="tcp:41640:40"/>Bill was sent up without the old, o<g ref="char:EOLhyphen"/>therwise I conceive it had been accord<g ref="char:EOLhyphen"/>ing to Orders.</p>
+                     <p>And I suppose the reason to be for that the Lords will not proceed in a new Bill, before they understand what is become of the Old, which they formerly past: Nor unless they may also have by them the former Bill.</p>
+                     <p>And therefore either a conference or the old Bill to be returned is ne<g ref="char:EOLhyphen"/>cessary.</p>
+                     <p>The same order is observed if the Commons send up a Bill to the Lords.</p>
+                  </div>
+                  <div type="part">
+                     <head>Amendments, and Additions, or Provisos added afterwards how lawful.</head>
+                     <p>V. <hi>An.</hi> 27 <hi>Eliz. Decembr.</hi> 17 The Commons sent up a Bill (for the Sabbath day) to the Lords who past the same with amendments, and so returned it to the Commons: They sent it back to the Lords with new a<g ref="char:EOLhyphen"/>mendments
+<pb n="23" facs="tcp:41640:40"/>who rejected the same as against Order.</p>
+                     <p>It seems the Commons had some confer<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nce with the Lords concerning the same; for afterwards in the same Parliament the Third of <hi>March</hi> it is thus entred <hi>(viz.)</hi>
+                     </p>
+                     <p>
+                        <hi>Memorandum</hi> that this day were cho<g ref="char:EOLhyphen"/>sen for Committees to examine the Record touching passing amendments of amendments, moved to the same by the lower House, the Lord Treasu<g ref="char:EOLhyphen"/>rer, the Earl of <hi>Sussex,</hi> the Viscount <hi>Mountague,</hi> the Bishop of <hi>Winchester,</hi> the Lord <hi>Hunsdon,</hi> the Lord <hi>Buck<g ref="char:EOLhyphen"/>hurst,</hi> the Master of the Rolls; and Mr. Attorney about the Bill for the better observing of the Sabbath day.</p>
+                     <p>The Presidents they named were the Bills for Treasons, and bringing in of Bills. Acts passed in <hi>An.</hi> 13. of the Queen.</p>
+                     <p>But these Presidents appear not in the Journal of the upper House.</p>
+                     <p>It should seem, that the Lords were then satisfied, and signified the same
+<pb n="24" facs="tcp:41640:41"/>unto the Commons, for afterwards 6 <hi>Martii,</hi> the Commons returned the same again with amendments of a<g ref="char:EOLhyphen"/>mendments, which the Lor<gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> pub<g ref="char:EOLhyphen"/>lickly read 3. times and past the same.</p>
+                     <p>
+                        <hi>V.</hi> the Journal of the lower House 22 <hi>Febr. fol.</hi> 97 <hi>&amp;</hi> 99. That the Commons desired the Lords that search might be made in the upper House, for Presidents touched by them of the lower House, and reported by the Committee. That upon search of Presidents their House might add to the Lords former additions to a Bill <hi>pro Billa</hi> Sabbath day. <hi>V. tamen An.</hi> 39 <hi>Eliz.</hi> 14 <hi>Jan.</hi> The Lords ha<g ref="char:EOLhyphen"/>ving returned to the Commons their <gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ill for Houses of Correction with a<g ref="char:EOLhyphen"/>mendments and Provisoes, the Com<g ref="char:EOLhyphen"/>mons prayed a Conference touching the said amendments and Provisoes.</p>
+                     <p>The Lord yielded to the Conference thus far, to satisfie the Commons what moved their Lordships to make those
+<pb n="25" facs="tcp:41640:41"/>amendments with this caution, that nothing can now be altered by the or<g ref="char:EOLhyphen"/>der of this House.</p>
+                     <p>Amendments upon amendments were very usual in the times of <hi>H.</hi> 8. and Q. <hi>Mary, prout An.</hi> 32. <hi>H.</hi> 8. 2 <hi>July &amp;</hi> 5.12, 19, 21, 22 <hi>&amp;</hi> 24 <hi>July Billa an<g ref="char:EOLhyphen"/>nexorum honori de Petworth.</hi>
+                     </p>
+                     <p>
+                        <hi>An.</hi> 32. <hi>H.</hi> 8. 1 <hi>Martii. &amp;</hi> 4.5, 6, 10. <hi>&amp;</hi> 18. <hi>Martii. Billa</hi> concerning the First Articles.</p>
+                     <p>
+                        <hi>An.</hi> 35 <hi>H.</hi> 8.4 <hi>Martii. &amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>Billa</hi> for the Lord decrees.</p>
+                     <p>
+                        <hi>An.</hi> 37. <hi>H.</hi> 8 27 <hi>No. &amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>Billa pro Custode Rotulorum, &amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>An.</hi> 6 <hi>H.</hi> 8. 15 <hi>Martii, &amp; us{que}</hi> 3 <hi>April. Billa Ducis Suff.</hi>
+                     </p>
+                     <p>
+                        <hi>An.</hi> 4 <hi>&amp;</hi> 5. <hi>Ph. &amp; Mar.</hi> 18 <hi>Febr. &amp;c. Billa</hi> for Musters.</p>
+                     <p>
+                        <hi>Anno</hi> 31 <hi>H.</hi> 8. 10. <hi>Junii.</hi> The Bill for the First Articles are sent to the Commons, 14 <hi>Junii</hi> it is returned with a Provisoe, and expedited 16 <hi>Junii:</hi> And 24 <hi>Junii,</hi> the Lords and Commons agree to some amend<g ref="char:EOLhyphen"/>ments.
+<pb n="26" facs="tcp:41640:42"/>Afterwards the 27 <hi>Junii,</hi> the Lords agree to another Provisoe, and send it with a Provisoe to the Com<g ref="char:EOLhyphen"/>mons 28 <hi>Junii,</hi> who returned the Bill ex<g ref="char:EOLhyphen"/>pedited the same day in the Afternoon.</p>
+                     <p>
+                        <hi>An.</hi> 37 <hi>H.</hi> 8. The Bill for the <hi>Gustos Rotulorum</hi> returned from the Commons with a Provisoe, rejected by the Lords, and sent back to the Commons, and returned by them expedited (without the Provisoe) 16 <hi>&amp;</hi> 18 <hi>Decembris.</hi>
+                     </p>
+                     <p>
+                        <hi>An.</hi> 4 <hi>Jac.</hi> 29 <hi>Junii,</hi> The Lords ha<g ref="char:EOLhyphen"/>ving returned to the Commons their Bill of Hostile Laws with amendments and a Provisoe, the Commons pray<g ref="char:EOLhyphen"/>ed a Conference for consideration thereof.</p>
+                     <p>At the Conference they moved that they may clear their doubt of the said amendments, and Provisoe, either by a<g ref="char:EOLhyphen"/>mendment, or by another Provisoe; of which kind of Proceeding, they affirm<g ref="char:EOLhyphen"/>ed they had good Presidents of for<g ref="char:EOLhyphen"/>mer times in like case.</p>
+                     <pb n="27" facs="tcp:41640:42"/>
+                     <p> And accordingly they did amend the same: And the Lords past the Bill after the third Reading thereof, <hi>V. ib.</hi> 3 <hi>Junii &amp; in pomeridiano.</hi>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>Amendment of the amend<g ref="char:EOLhyphen"/>ments how Lawful.</head>
+                     <p>THe amendment of a Bill coming from the Commons (as hath been said) are to be written in Paper and to be inserted into the Bill by the Commons at the return thereof unto them. And if the Commons do think fit, that those amendments be amend<g ref="char:EOLhyphen"/>ed they are to signifie so much to the Lords and to move their Lordships to amend their own amendments before the same be asserted in the Bill. <hi>V.</hi> the Journal of the lower House. <hi>An.</hi> 27 <hi>Eliz.</hi> 10 <hi>Martii fol.</hi> 132. The Bill a<g ref="char:EOLhyphen"/>gainst Jesuits, <hi>&amp; ib. A.</hi> 23 <hi>Eliz.</hi> 17 <hi>Martii,</hi> concerning the Borders of <hi>Scotland,</hi> where the Lords are prayed to amend the sense of their own amendments;
+<pb n="28" facs="tcp:41640:43"/>the Bill was sent them, and returned amended.</p>
+                     <p>Divers Lords were of opinion the last Parliament <hi>An.</hi> 18 <hi>&amp;</hi> 19 <hi>Jac.</hi> That a Bill might be amended after the third Reading.</p>
+                     <p>But in the same Parliament 27 <hi>No.</hi> in the Bill for Suits, and 1 <hi>Decembr.</hi> in the Bill for Monopolies it was agreed <hi>per plures</hi> (but the question for it was denied) that it was against the orders of the House to recommit a Bill after the third Reading.</p>
+                     <p>Yet it was agreed that a Bill might have a small amendment after the Third Reading, with which agreeth that <hi>Anno</hi> 27 <hi>Eliz.</hi> 13 <hi>Martii.</hi> In the Bill for Provision to be made for the Queens Royal Person, <hi>&amp;c.</hi> which was thus amended of the Third Read<g ref="char:EOLhyphen"/>ing, and before it was put to the question <hi>(viz.)</hi> in the 24 line after this word (left) put out (so as) and in place thereof put in (foreseeing that) And such small amendments art usual after the Third Reading.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="29" facs="tcp:41640:43"/>
+                     <head>A Provisoe added after the Third Reading, not usual now.</head>
+                     <p>
+                        <hi>ANno.</hi> 35 <hi>Eliz.</hi> 9 <hi>April.</hi> A saving of the Queens Right, and all mens right added to the Bill for repealing of certain uses, and concerning the Lands of <hi>Anthony Coke</hi> Esq; was added to the Bill after the the Third Reading and Question.</p>
+                     <p>This Bill was sent up by the Com<g ref="char:EOLhyphen"/>mons 28 <hi>Martii &amp;</hi> 6 <hi>April</hi> it was Read the Third time and Expedited. The saving was added the 9 of <hi>April</hi> with this Caution, that the Lords upon weigh<g ref="char:EOLhyphen"/>ty considerations have ordered that this shall not hereafter be drawn to make any President. Then the Bill was returned to the Commons who sent it up the same day expedited.</p>
+                     <p>According to this order of <hi>Anno</hi> 35 <hi>Eliz.</hi> the House hath forborn to add
+<pb n="30" facs="tcp:41640:44"/>any thing to the Bill after the Third Reading <hi>prout. Anno</hi> 3. <hi>Jac.</hi> 13. <hi>Martii</hi> 3. <hi>Vice lecta est Billa.</hi> For the establishing of the possessions of <hi>Ed<g ref="char:EOLhyphen"/>mund</hi> late Lord <hi>Chandois</hi> of <hi>Sudley.</hi> And ordered that the late <hi>Chandois</hi> shall give security for the payment of 7000 <hi>l.</hi> to her Daughter <hi>Katherine</hi> before the Bill be sent to the Commons; For that the same is not sufficiently provided for by the Bill.</p>
+                     <p>15 <hi>Martii</hi> this is referred to Mr Ju<g ref="char:EOLhyphen"/>stice <hi>Tanfeild,</hi> and Mr Justice <hi>Crook,</hi> and they to acquaint the Lord Com<g ref="char:EOLhyphen"/>mittees that were named on the Bill with the cause by them advised on. That the Lords might proceed for the security as they should find cause.</p>
+                     <p>27 <hi>Martii.</hi> This Bill (with others) is sent down to the Commons with a recommendation from their Lordships, to be had by them touching assurance to be given for the said portion which was not remembred to their Lordships until the Bill was past this House.</p>
+                     <pb n="31" facs="tcp:41640:44"/>
+                     <p> But this order was not thus nicely observed, <hi>tempore H.</hi> 8. <hi>An.</hi> 6. <hi>H.</hi> 8. 1 <hi>Martij Billa concernens debita Regia lecta est</hi> 3.</p>
+                     <p>3 <hi>Martij lecta est</hi> 4. <hi>&amp; Domini deliberabunt.</hi>
+                     </p>
+                     <p>15 <hi>Martij lecta est</hi> 5.</p>
+                     <p>16 <hi>Martij lecta est.</hi>
+                     </p>
+                     <p>20 <hi>Martij lecta est &amp; Domini de<g ref="char:EOLhyphen"/>putaverunt principalem Justiciorum &amp; ad confiniendum quendam effectum pro securitate regia pro debitis suis obtinen<g ref="char:EOLhyphen"/>dis.</hi>
+                     </p>
+                     <p>Here it appears that at the third reading, the Lords not being agreed, the Bill was Read again the fourth time, yea and the 6. and 7. times, and at last the Lords appointed a new Bill to be drawn.</p>
+                     <p>There are many Presidents that Bills have been read oftner than thrice in that Kings Time, and of <hi>E.</hi> 6. by which it appears that Bills might then be recommitted after the third Reading. <hi>V.</hi> My Collection of those
+<pb n="32" facs="tcp:41640:45"/>Times which I will not here relate: For that it is now constantly obser<g ref="char:EOLhyphen"/>ved to Read Bills but thrice.</p>
+                  </div>
+                  <div type="part">
+                     <head>A Provisoe added by the one House, and desired to be taken away by the other House, whether Lawful.</head>
+                     <p>THis was usual in former times, yet in the Parliament 21 <hi>Jac.</hi> 28 <hi>May</hi> the Lords having returned un<g ref="char:EOLhyphen"/>to the Commons their Bill for ease of Pleading of Licence of Alienations <hi>&amp;c.</hi> with a Provisoe, the Commons misliking of the Provisoe desired a Conference, and moved to have the Provisoe taken away, and some doubt<g ref="char:EOLhyphen"/>ing and others affirming that this could not be done by the orders of the House, the Commons framed a new Bill to that purpose without a Provisoe, and sent it up to the Lords the next morn<g ref="char:EOLhyphen"/>ing, and with it returned the old Bill,
+<pb n="33" facs="tcp:41640:45"/>and the Lords past this new Bill.</p>
+                     <p>
+                        <hi>Anno</hi> 3 <hi>H.</hi> 8 24. <hi>die Parliamenti Billa concernens Coriarios lecta est primo &amp;c.</hi> sent to the Commons, <hi>&amp;</hi> 29. <hi>die Parliamentum assentita est, dempreta additione.</hi>
+                     </p>
+                     <p>
+                        <hi>Anno</hi> 6 <hi>H.</hi> 8.31 <hi>die Martii Billa Du<g ref="char:EOLhyphen"/>cis Suff. remissa est in domum communem, &amp; due provisiones eidem prius per Commiones annexae abstrahuntur &amp; eodem die recepta est, ablatis provisionibus pri<g ref="char:EOLhyphen"/>us annexis.</hi>
+                     </p>
+                     <p>
+                        <hi>Anno</hi> 1 <hi>&amp;</hi> 2 <hi>Ph. &amp; Mar.</hi> The Bill for the Supremacy of <hi>Rome,</hi> 4 <hi>Jan.</hi> a Provisoe added by the Commons misliked, a new Bill made, and the old taken away by the Commons at the Lords request.</p>
+                     <p>
+                        <hi>Anno</hi> 4 <hi>&amp;</hi> 5 <hi>Ph. &amp; Mar.</hi> The Bill of Musters returned from the Commons with two Provisoe's, and sent back to have them taken away, and return<g ref="char:EOLhyphen"/>ed again with certain Corrections mentioned in a schedule, expedited 4 <hi>&amp;</hi> 6 <hi>Martii &amp; prout M.</hi> 6 <hi>May.</hi>
+                     </p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="errata">
+                  <pb facs="tcp:41640:46"/>
+                  <head>Errors of the Press, in the Opinions of the Antiquaries.</head>
+                  <p>P. 1. l. ult. r. <hi>Jure:</hi> p. 3. l. 4. r. <hi>Realm by the Statists:</hi> l. 13. r. <hi>Wittena motu:</hi> p. 5. l. 17. r. <hi>Seats:</hi> p. 6. l. 11. after <hi>obligeretur</hi> add <hi>non ad id:</hi> l. 13. r. <hi>vanished:</hi> p. 7. l. 2. r. <hi>Regibus:</hi> p. 10. l. penult. after <hi>first</hi> add <hi>held the first:</hi> p. 11. l. 4. r. <hi>pro:</hi> p. 14. l. 5. r. <hi>veult:</hi> p. 15. l. 21. r. <hi>Servientibus:</hi> p. 22. l. 4. r. <hi>civitatem:</hi> p. 38. l. 25. after <hi>Henry</hi> add <hi>the first was:</hi> l. ult. r. <hi>H.</hi> 1. p. 41. l. 5. r. <hi>here some gather:</hi> p. 46. l. 19. r. <hi>tractaturi.</hi>
+                  </p>
+                  <pb facs="tcp:41640:46"/>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
